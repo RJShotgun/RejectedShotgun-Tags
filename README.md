@@ -19,6 +19,8 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 **Vehicle:** Hoverhog
 
+**Vehicle:** Seraph
+
 **Vehicle:** Shadow
 
 **Vehicle:** Spectre
