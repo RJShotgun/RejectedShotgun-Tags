@@ -15,6 +15,8 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 **Vehicle:** Anti-Air Cannon (BFG)
 
+**Vehicle:** Ghost, Anti-Air
+
 **Vehicle:** Hoverhog
 
 **Vehicle:** Shadow
