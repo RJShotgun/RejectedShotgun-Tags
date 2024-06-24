@@ -13,8 +13,6 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 ### Halo 3
 
-**Weapon:** CE Fuel Rod Cannon
-
 **Vehicle:** Anti-Air Cannon (BFG)
 
 **Vehicle:** Hoverhog
@@ -22,5 +20,9 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 **Vehicle:** Shadow
 
 **Vehicle:** Spectre
+
+**Weapon:** CE Fuel Rod Cannon
+
+**Weapon:** Stanchion
 
 **Some tag references may be missing from this repository. Create an issue for any you find and I will add the missing tags.**
