@@ -1,0 +1,330 @@
+;### VERSION ###
+8213
+;	<8197-8213>
+
+;### NODES ###
+16
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+hull
+-1
+-0.0000000000	-0.0000000000	-0.7071067691	0.7071067691
+-2.5001449585	-0.0000000703	42.0000000000
+
+;NODE 1
+lb_suspension
+0
+-0.0000000000	-0.0000000000	-0.7071067691	0.7071067691
+-41.8013305664	11.0569114685	23.0116977692
+
+;NODE 2
+lb_engine
+1
+0.0000000000	0.0000000000	-0.7071067691	0.7071067691
+-65.5001525879	19.9999980927	19.0000000000
+
+;NODE 3
+lb_tire
+2
+-0.0000000000	-0.0000000000	-0.7071068287	0.7071067095
+-65.5001525879	37.9999923706	19.0000000000
+
+;NODE 4
+rb_suspension
+0
+-0.0000000000	-0.0000000000	-0.7071067691	0.7071067691
+-41.8013305664	-10.8480510712	23.0116977692
+
+;NODE 5
+rb_engine
+4
+0.0000000000	0.0000000000	-0.7071067691	0.7071067691
+-65.5001525879	-20.0000000000	19.0000000000
+
+;NODE 6
+rb_tire
+5
+-0.0000000000	-0.0000000000	-0.7071068287	0.7071067095
+-65.5001525879	-38.0000000000	19.0000000000
+
+;NODE 7
+lf_suspension
+0
+-0.0000000000	-0.0000000000	-0.7071067691	0.7071067691
+40.3249130249	11.0569152832	22.5187664032
+
+;NODE 8
+lf_engine
+7
+0.0000000000	0.0000000000	-0.7071067691	0.7071067691
+64.4998550415	20.0000000000	19.0000000000
+
+;NODE 9
+lf_tire
+8
+-0.0000000000	-0.0000000000	-0.7071068287	0.7071067095
+64.4998550415	37.9999961853	19.0000000000
+
+;NODE 10
+rf_suspension
+0
+-0.0000000000	-0.0000000000	-0.7071067691	0.7071067691
+40.3249130249	-10.8480472565	22.5187664032
+
+;NODE 11
+rf_engine
+10
+0.0000000000	0.0000000000	-0.7071067691	0.7071067691
+64.4998474121	-19.9999980927	19.0000000000
+
+;NODE 12
+rf_tire
+11
+-0.0000000000	-0.0000000000	-0.7071068287	0.7071067095
+64.4998474121	-37.9999923706	19.0000000000
+
+;NODE 13
+steering_wheel
+0
+0.4545191824	-0.4545192122	-0.5416755080	0.5416753888
+12.2252874374	16.9564170837	54.0873107910
+
+;NODE 14
+bumper
+0
+-0.0000000000	-0.0000000000	-0.7071068883	0.7071066499
+-97.5001449585	0.0000079581	28.5000000000
+
+;NODE 15
+e_brake
+0
+-0.0000000000	-0.0000000000	-0.7071068883	0.7071066499
+4.7869009972	-0.0000074929	45.4944610596
+
+;### MATERIALS ###
+2
+;	<name>
+;	<(Material Slot Index) LOD Permutation Region>
+
+;MATERIAL 0
+hum_metal_bumper
+(11) base bumper
+
+;MATERIAL 1
+hum_metal
+(10) base hull
+
+;### MARKERS ###
+0
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### INSTANCE XREF PATHS ###
+0
+;	<path to asset file>
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+0
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<index>
+;		<weight>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;	<vertex color <r,g,b>>
+
+;### TRIANGLES ###
+0
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+1
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;BOXES 0
+physics_bumper
+14
+0
+0.0000000000	0.0000000000	0.7071067691	0.7071067691
+0.0000005649	7.4828643799	4.0000000000
+10.5000000000
+28.0000000000
+4.0000000000
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+1
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;CONVEX 0
+physics_hull
+0
+1
+0.0000000000	0.0000000000	0.7071067691	0.7071067691
+0.0000005372	-0.0000002384	-23.0811195374
+20
+-87.8614578247	-28.1177425385	6.0310268402
+-64.1625518799	-42.9458694458	-1.0645284653
+66.3144912720	-42.9458732605	-1.0652246475
+92.5493316650	-25.0406455994	28.8033084869
+90.4422073364	-25.0406417847	7.5072479248
+-87.8614578247	28.1177501678	6.0310306549
+-64.1625518799	42.9458847046	-1.0645284653
+66.3144912720	42.9458808899	-1.0652246475
+90.4422073364	25.0406417847	7.5072517395
+92.5493316650	25.0406455994	28.8033084869
+-87.6265869141	-34.3636245728	30.9231643677
+-15.8794212341	-23.8622264862	53.1819992065
+24.2994384766	-23.6981449127	53.1819992065
+-87.6265869141	34.3636322021	30.9231643677
+-15.8794212341	23.8622264862	53.1819992065
+24.2994384766	23.6981410980	53.1819992065
+67.2469100952	41.4837760925	21.0333919525
+-56.1510581970	40.1525497437	21.1596984863
+66.9639663696	-41.3294868469	21.6018753052
+-54.0650062561	-39.1998367310	23.6611385345
+
+;### RAGDOLLS ###
+1
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;RAGDOLL 0
+ragdoll:physics_hull:physics_bumper
+0
+14
+0.0000000020	0.0436193869	-0.0000000596	0.9990482330
+-11.1511678696	-91.6053237915	-8.9622383118
+-0.0000000006	0.0436193869	-0.0000000000	0.9990482330
+-11.1511602402	3.3946740627	4.5377616882
+-9.9999997091
+19.9999994182
+-25.0000001265
+25.0000001265
+-9.9999997091
+9.9999997091
+0.0000000000
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle>
+
+;### CAR WHEEL ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT TO POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>

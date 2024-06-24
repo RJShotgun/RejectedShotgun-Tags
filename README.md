@@ -7,15 +7,17 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 ### Halo 2
 
-Vehicle: Golden Warthog
+**Vehicle:** Golden Warthog
 
 
 
 ### Halo 3
 
-Weapon: CE Fuel Rod Cannon
+**Weapon:** CE Fuel Rod Cannon
 
-Vehicle: Shadow
+**Vehicle:** Shadow
+
+**Vehicle:** Hoverhog
 
 
 
