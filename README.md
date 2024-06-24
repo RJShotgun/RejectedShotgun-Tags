@@ -21,6 +21,6 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 **Vehicle:** Shadow
 
-
+**Vehicle:** Spectre
 
 **Some tag references may be missing from this repository. Create an issue for any you find and I will add the missing tags.**
