@@ -15,11 +15,11 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 **Weapon:** CE Fuel Rod Cannon
 
-**Vehicle:** Shadow
+**Vehicle:** Anti-Air Cannon (BFG)
 
 **Vehicle:** Hoverhog
 
-
+**Vehicle:** Shadow
 
 
 
