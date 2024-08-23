@@ -1,0 +1,243 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default','canopy','engine_l','engine_r','flap_l','flap_r','skid_l','skid_r','tail','wing_l','wing_r'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0,1,2,3,4,5,6,7,8,9,10"
+        ]
+    },
+    "nodes_properties": {
+        "hornet_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "d6f1f39c-a738-0115-33ff-d67d2a719677",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "b_pedestal": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_yaw": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "b_chasis": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        },
+        "b_driver": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "907117332",
+            "bungie_frame_ID2": "1134044997",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "878132555",
+            "bungie_frame_ID2": "-816734465",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_shroud_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "975786436",
+            "bungie_frame_ID2": "-859504388",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_barrel_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1005272053",
+            "bungie_frame_ID2": "28142163",
+            "bungie_object_animates": "1"
+        },
+        "b_flap_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "863544774",
+            "bungie_frame_ID2": "-9666716",
+            "bungie_object_animates": "1"
+        },
+        "b_flap_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "b_canopy": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "b_gear": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "b_engine_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "b_thruster_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "956850455",
+            "bungie_frame_ID2": "1819822003",
+            "bungie_object_animates": "1"
+        },
+        "b_fan_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "990675930",
+            "bungie_frame_ID2": "1282447771",
+            "bungie_object_animates": "1"
+        },
+        "b_engine_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "b_thruster_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "952765218",
+            "bungie_frame_ID2": "-1592775396",
+            "bungie_object_animates": "1"
+        },
+        "b_fan_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "986638831",
+            "bungie_frame_ID2": "-2129071308",
+            "bungie_object_animates": "1"
+        },
+        "b_tracker": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_shroud_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "936634661",
+            "bungie_frame_ID2": "-1896854034",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_barrel_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "982300025",
+            "bungie_frame_ID2": "769234082",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_pitch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "wing_r:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0c45425d-36f6-cf35-389f-f8d57dacc792",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "wing_r"
+        },
+        "wing_l:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9995cf1e-1c9e-196a-0673-79851d90312d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "wing_l"
+        },
+        "tail:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5ab0e0ca-26da-df8e-a656-09e114f19231",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "tail"
+        },
+        "skid_r:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7783183b-cec2-e9aa-e698-f05e6e3ae452",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "skid_r"
+        },
+        "skid_l:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0a50fc8c-bc1b-87fb-8b9f-562398b02289",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "skid_l"
+        },
+        "flap_r:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "99581a7f-0e8f-5890-ed31-0a621b6dc751",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "flap_r"
+        },
+        "flap_l:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "75fb0c7e-4ea1-ba04-edb1-02576ed358e9",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "flap_l"
+        },
+        "engine_r:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9ce24a80-6f92-896f-124e-5cff78c2de7d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "engine_r"
+        },
+        "engine_l:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "13821a42-6350-bd41-e71f-6618e83698cf",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "engine_l"
+        },
+        "default:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "32eed07e-223b-3a71-798d-48c6d9c0a56f",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "canopy:default.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "8d41e521-92c4-85d5-8566-b7f3ffc8f96a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "canopy"
+        }
+    },
+    "material_properties": {
+        "h2a_hornet": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\hornet\\shaders\\h2a_hornet",
+            "bungie_shader_type": "shader"
+        },
+        "h2a_hornet_decals": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\hornet\\shaders\\h2a_hornet_decals",
+            "bungie_shader_type": "shader"
+        },
+        "h2a_hornet_glass": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\hornet\\shaders\\h2a_hornet_glass",
+            "bungie_shader_type": "shader"
+        },
+        "h2a_hornet_lights": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\hornet\\shaders\\h2a_hornet_lights",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

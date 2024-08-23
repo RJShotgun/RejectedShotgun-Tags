@@ -1,0 +1,1216 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "hornet_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "d6f1f39c-a738-0115-33ff-d67d2a719677",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "b_pedestal": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_yaw": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "b_chasis": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        },
+        "b_driver": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "907117332",
+            "bungie_frame_ID2": "1134044997",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "878132555",
+            "bungie_frame_ID2": "-816734465",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_shroud_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "975786436",
+            "bungie_frame_ID2": "-859504388",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_barrel_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1005272053",
+            "bungie_frame_ID2": "28142163",
+            "bungie_object_animates": "1"
+        },
+        "primary_trigger": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "7d2a339a-1922-6c74-b3b5-911548d8d996",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_trigger"
+        },
+        "primary_trigger.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6a714c54-72ac-110e-6eb9-1c82f416697c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_trigger"
+        },
+        "primary_trigger.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "386d01d4-5507-2e8e-a6e6-5dadff729b77",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_trigger"
+        },
+        "b_flap_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "863544774",
+            "bungie_frame_ID2": "-9666716",
+            "bungie_object_animates": "1"
+        },
+        "garbage_flap_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8c1b7bfa-c489-6f76-8c01-912028c10d4d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_flap_right"
+        },
+        "b_flap_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "garbage_flap_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8e917fab-2fb4-c549-bacf-61ecb999da04",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_flap_left"
+        },
+        "b_canopy": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "garbage_canopy": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5849cff2-cd0f-7839-3b6e-43eb42ae1903",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_canopy"
+        },
+        "b_gear": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "front_gear_suspension": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "825ce1b9-6bf6-85dd-c959-3a0b330dcc8a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "front_gear_suspension"
+        },
+        "b_engine_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "b_thruster_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "956850455",
+            "bungie_frame_ID2": "1819822003",
+            "bungie_object_animates": "1"
+        },
+        "b_fan_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "990675930",
+            "bungie_frame_ID2": "1282447771",
+            "bungie_object_animates": "1"
+        },
+        "garbage_fan_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "068ad364-44c4-8bcc-d979-3447de912fed",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_fan_right"
+        },
+        "phy_thrust_left_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ce16cb53-efd9-b5fb-73a6-2e7766180742",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "phy_thrust_left_front"
+        },
+        "garbage_jet_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "84ab95dc-ac0a-f887-16b7-fef237e18a14",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_jet_left"
+        },
+        "fx_thrusters": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "68492692-2932-0367-a18b-62be16445148",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_thrusters"
+        },
+        "fx_explosion_small": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d5a9cc09-3ddd-d4b9-b4c0-d4c09ea4b313",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_explosion_small"
+        },
+        "audio_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ef0a1f8e-7d09-b6bf-1549-2a047d791c4b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_left"
+        },
+        "b_engine_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "b_thruster_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "952765218",
+            "bungie_frame_ID2": "-1592775396",
+            "bungie_object_animates": "1"
+        },
+        "b_fan_r": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "986638831",
+            "bungie_frame_ID2": "-2129071308",
+            "bungie_object_animates": "1"
+        },
+        "garbage_fan_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1b6f178f-d089-51c0-f59b-ad651463d21d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_fan_left"
+        },
+        "phy_thrust_right_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "55f871fc-a34c-c9b7-ff77-74d62fbee7cb",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "phy_thrust_right_front"
+        },
+        "garbage_jet_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "dd00db7b-67a2-976e-067c-75fba5568a8b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_jet_right"
+        },
+        "fx_thrusters.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "339df09d-33fa-f9a0-ea6d-77f23e711220",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_thrusters"
+        },
+        "fx_explosion_small.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ca140976-bdd7-dcf1-40c7-3aa4c2f7d6ab",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_explosion_small"
+        },
+        "audio_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "24eee4b7-e5a0-ef5b-28b9-494494fb1a86",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_right"
+        },
+        "b_tracker": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_shroud_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "936634661",
+            "bungie_frame_ID2": "-1896854034",
+            "bungie_object_animates": "1"
+        },
+        "b_gun_barrel_l": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "982300025",
+            "bungie_frame_ID2": "769234082",
+            "bungie_object_animates": "1"
+        },
+        "primary_trigger.005": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d8afbdcb-96eb-bfdc-c32f-e4737645b37f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_trigger"
+        },
+        "primary_trigger.004": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "51a12280-9a4e-10e3-b701-8e6457a95e3a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_trigger"
+        },
+        "primary_trigger.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e098df15-260c-1d70-a6da-d1794a4d0340",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_trigger"
+        },
+        "d_right_foot_spartan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "10a9d9ad-2eb6-bbee-4580-800bf15072d8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_right_foot_spartan"
+        },
+        "d_right_foot_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "41f75cb8-d863-0124-0023-2ef33ff717cc",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_right_foot_elite"
+        },
+        "d_left_foot_spartan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "a0ac4628-2686-f5de-4fb4-286041db0f08",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_left_foot_spartan"
+        },
+        "d_left_foot_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e1a10167-da0a-fc3a-93ce-736f813edb67",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_left_foot_elite"
+        },
+        "d_right_hand_spartan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5e5baef2-c635-fca7-12e4-bc989cee848b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_right_hand_spartan"
+        },
+        "d_right_hand_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "34b94ef4-c3ce-ed24-4cb7-8f20e203a22e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_right_hand_elite"
+        },
+        "d_left_hand_spartan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9ae4fb10-d704-cc3d-d7b4-524a84673743",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_left_hand_spartan"
+        },
+        "d_left_hand_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "cefaf193-5c27-5a48-d7f9-b1ea8dd0c612",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_left_hand_elite"
+        },
+        "d_right_foot": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "fde9254b-7394-7879-e4cc-774545bc69fa",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_right_foot"
+        },
+        "d_left_foot": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e9ac0f43-81e5-7595-0227-1a402f72027a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_left_foot"
+        },
+        "d_left_hand": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0aed9a4a-7386-0909-9b78-296edf3a4dec",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_left_hand"
+        },
+        "d_right_hand": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8a8e205a-6acc-5d7f-b6bf-f1306c3c37b5",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "d_right_hand"
+        },
+        "thrust": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "80dd6011-4849-f6b5-98f6-81c2b616b697",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "thrust"
+        },
+        "vehicle_ctf": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "a5f7deb3-e65c-7220-f2d2-9a8d6c3f48a8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "vehicle_ctf"
+        },
+        "test_marker": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9dd1ab78-8a82-64a5-1649-334528d81037",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "test_marker"
+        },
+        "target_wing_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e7f8b10a-cda8-8ab7-a9e9-107f87f36f77",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_r"
+        },
+        "target_wing_r.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "883ffecc-d847-0af1-9db7-423b7e896b02",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_r"
+        },
+        "target_wing_r.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0c33fab4-9e29-f115-1efa-24b513c5671e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_r"
+        },
+        "target_wing_r.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5667bd5f-76f6-7995-7f05-b30ec8f58007",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_r"
+        },
+        "target_wing_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1779be7f-71d5-b03b-351d-f2dd76d856ff",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_l"
+        },
+        "target_wing_l.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "34436373-257d-211c-a0a1-908c797bc3d4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_l"
+        },
+        "target_wing_l.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "32e658e2-fbcb-d717-e42f-366644bda44a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_l"
+        },
+        "target_wing_l.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "3417a6cd-0364-f864-3d68-c94c2bf364fa",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_wing_l"
+        },
+        "target_tail_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "46ae1f1a-4682-4a76-3306-1da6e93ffb83",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_front"
+        },
+        "target_tail_front.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6d4a2999-8219-5bcb-8065-83b178851228",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_front"
+        },
+        "target_tail_front.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "29f57cdf-1e7f-46b3-ef62-da4aefc45feb",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_front"
+        },
+        "target_tail_front.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "63e17e3f-a9c6-1655-045d-12039d9616e8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_front"
+        },
+        "target_tail_back": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "34c03630-7a6b-9c25-cc5d-c0ed9d7fd44b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_back"
+        },
+        "target_tail_back.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f9c3f16a-fa3a-ea5c-1821-e8052793d232",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_back"
+        },
+        "target_tail_back.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f661e5f4-8a92-e765-efff-c43d0b6ea8a1",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_back"
+        },
+        "target_tail_back.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d2a845f1-b813-6a2c-bbca-00cdd86351ce",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_tail_back"
+        },
+        "target_skid_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c3efdae5-6d75-a3f8-e34d-ee61d23b5309",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_r"
+        },
+        "target_skid_r.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "98a0b306-95d4-c8b9-74f3-102199a529b4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_r"
+        },
+        "target_skid_r.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "471a0707-a3f8-aaef-2389-ef8042ebb39e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_r"
+        },
+        "target_skid_r.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e50a5c7c-ea05-725b-da41-192a0f3fe401",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_r"
+        },
+        "target_skid_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "02673646-64cc-646c-c9c8-d638883a2313",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_l"
+        },
+        "target_skid_l.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8e74360e-b522-61ec-e5d5-4cdc611a6c42",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_l"
+        },
+        "target_skid_l.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "dfb8e18f-909b-068b-a4fb-6d3833ee745b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_l"
+        },
+        "target_skid_l.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "964b2169-a778-2a48-d779-51feb9693da0",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_skid_l"
+        },
+        "target_flap_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1192003c-2018-c17d-4edf-f0464d673aa7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_r"
+        },
+        "target_flap_r.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d53da5c8-3d06-c528-2b6e-7374f4abdbba",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_r"
+        },
+        "target_flap_r.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "36749283-b97c-6147-f1da-96c43ed4a639",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_r"
+        },
+        "target_flap_r.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "69a95e6e-1138-2353-0486-57281b1991c3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_r"
+        },
+        "target_flap_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9783cc80-dc89-6706-e0ff-30098663ec91",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_l"
+        },
+        "target_flap_l.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "26506655-93ec-673e-78c6-c116b1986ce9",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_l"
+        },
+        "target_flap_l.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "7e9d3cf2-0fbf-1f21-7680-27cbfcd74f47",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_l"
+        },
+        "target_flap_l.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1aea7c42-4d15-e70c-2390-4345db54e76f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_flap_l"
+        },
+        "target_engine_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "51a6772b-eeac-4780-6ff3-8993aec64e9d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_r"
+        },
+        "target_engine_r.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e775f082-4725-7c76-8aba-763db2c5731d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_r"
+        },
+        "target_engine_r.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "334359f7-d6b1-7a4c-6bdf-d851884be77c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_r"
+        },
+        "target_engine_r.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8b99ad22-fe53-ee23-1180-1ef861fb2bb9",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_r"
+        },
+        "target_engine_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ef5502b3-ac20-ce96-f35e-a8c6ecc7f635",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_l"
+        },
+        "target_engine_l.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "afa2c623-05a8-98ef-f244-a1784c951bd9",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_l"
+        },
+        "target_engine_l.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "62777af6-4525-7538-3fb0-2e55d7ce74fb",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_l"
+        },
+        "target_engine_l.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b989c249-42b8-2bce-215c-eacce3fbdd58",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_engine_l"
+        },
+        "target_body_mid": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "641e1636-649f-5377-d280-cbbc57a2a7e6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_mid"
+        },
+        "target_body_mid.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "612a49d3-03b4-fcb5-6858-c55ddb42e7dc",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_mid"
+        },
+        "target_body_mid.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0bde7b49-da9a-0ce1-722c-471ca58d11fe",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_mid"
+        },
+        "target_body_mid.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "14e2c055-42a5-72fe-2136-56d181109354",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_mid"
+        },
+        "target_body_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "4933693d-379a-6d74-2382-6abf756038f6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_front"
+        },
+        "target_body_front.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "7a5f7af1-8651-8434-d038-d292c91ba34b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_front"
+        },
+        "target_body_front.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c92d05d9-9bdb-c229-5aa3-6a058e98579b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_front"
+        },
+        "target_body_front.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "98be8f98-abc5-17c9-ea9f-f550ee1b1095",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_front"
+        },
+        "target_body_back": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "755da0d5-e3cc-0381-3093-5d931563366f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_back"
+        },
+        "target_body_back.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "df93f660-c0f0-add3-bd29-1c6fcb5aee58",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_back"
+        },
+        "target_body_back.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "a11b81cb-9000-6bc8-5766-2ad5900c8297",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_back"
+        },
+        "target_body_back.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f4e07498-2cc0-1f4e-0ab1-4e87fffc2830",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "target_body_back"
+        },
+        "secondary_trigger": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "12177764-1441-2cd4-b1c5-c45514c23c06",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "secondary_trigger"
+        },
+        "secondary_trigger.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "71e9da70-2b9b-ba89-f0fe-41166f8bf29c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "secondary_trigger"
+        },
+        "primary_ejection": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "84e9961b-9c34-e8c9-9060-52b6d3e6e4d7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_ejection"
+        },
+        "primary_ejection.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d3625d03-6864-08d3-e07a-539461264860",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "primary_ejection"
+        },
+        "mongoose_p_left_hand_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ddd91e21-1e0e-ca56-1640-2163364c4120",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "mongoose_p_left_hand_elite"
+        },
+        "mongoose_p_left_hand": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "bb96ce71-b2a0-197b-1796-b1ed64671280",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "mongoose_p_left_hand"
+        },
+        "light_nav_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "92f1ee1f-ac29-d83a-3cc7-46081bb853b6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_right"
+        },
+        "light_nav_right.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5cc52828-b842-b765-dc23-b2902a40d2a1",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_right"
+        },
+        "light_nav_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ea23bdc9-b058-2595-f768-58b4b707138c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_left"
+        },
+        "light_nav_left.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "faf4e0e8-e8a5-c688-db58-343720052ace",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_left"
+        },
+        "light_nav_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ddf9d33d-6485-ce14-485e-15231f821b13",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_front"
+        },
+        "light_nav_front.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "3bc23b1f-4943-f211-1bc9-0810aeac8c6f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_front"
+        },
+        "light_nav_back": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5f12527b-33ca-b697-5635-d46a02904ebf",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_back"
+        },
+        "light_nav_back.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "23c5413e-20be-7912-a5a1-8be7f3b89043",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_back"
+        },
+        "light_nav_back.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "2c5a0d7a-8fa1-95a1-e7c0-ba948e90e925",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_back"
+        },
+        "light_nav_back.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c498cff9-01de-a947-74de-98b2a2a06066",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "light_nav_back"
+        },
+        "jet_wash": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "17f675c5-ea50-ea0e-dbab-5a0ef2be3b6e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "jet_wash"
+        },
+        "hornet_p_right_foot_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d10846de-1a86-94ea-4af3-807ec3289428",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_right_foot_elite"
+        },
+        "hornet_p_right_foot": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0dccab9f-b13a-0c23-2d94-00fc43d82074",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_right_foot"
+        },
+        "hornet_p_r_entry": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "47918c7d-79db-dcb0-7d35-2f1e4d1a9d85",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_r_entry"
+        },
+        "hornet_p_r_camera": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d0fd5e3b-1489-e056-e606-197d5ec3827e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_r_camera"
+        },
+        "hornet_p_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "35d50d75-8336-039e-d8d6-d4eff8497ba7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_r"
+        },
+        "hornet_p_left_foot_elite": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9dfb8ca0-680e-7b8c-09c3-efbd250d4b6b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_left_foot_elite"
+        },
+        "hornet_p_left_foot": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "13e3775a-0869-f457-6e2f-705591115590",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_left_foot"
+        },
+        "hornet_p_l_entry": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "553c502f-82e7-6a5e-adc6-10bed4406ba3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_l_entry"
+        },
+        "hornet_p_l_camera": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5ff1040c-2f32-af27-9d9c-59a99e528be4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_l_camera"
+        },
+        "hornet_p_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "fb716000-5f34-aacd-f032-26d8ab5c460e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_p_l"
+        },
+        "hornet_d_entry": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "29727d63-2be0-ec6e-c9b7-3a151d0b73a8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_d_entry"
+        },
+        "hornet_d": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "51939be6-847c-779e-bb19-5f9a727e953c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_d"
+        },
+        "hornet_b_p_r_enter": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "87940313-9d0e-1350-3483-06a5e441fcb2",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_p_r_enter"
+        },
+        "hornet_b_p_r_camera": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "45b7c642-d3c7-92e7-e5c5-f15baaf731c8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_p_r_camera"
+        },
+        "hornet_b_p_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "2debe1df-7fdf-63af-9deb-e62145110dcb",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_p_r"
+        },
+        "hornet_b_p_l_enter": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c3cfcec3-931d-211b-f295-f977a474914e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_p_l_enter"
+        },
+        "hornet_b_p_l_camera": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "a3234ce7-bf82-e9ec-d32c-8007232344a1",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_p_l_camera"
+        },
+        "hornet_b_p_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "3ec5e707-b1e5-a73e-a38e-9f363100fcbf",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_p_l"
+        },
+        "hornet_b_d_r_camera": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6c4017c5-f55e-c267-f108-ca3153f643b2",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_d_r_camera"
+        },
+        "hornet_b_d_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "97850145-a9ad-092e-0787-0939101b884a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_d_r"
+        },
+        "hornet_b_d_l_camera": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6c8a56d0-6090-0746-9841-13bb9638ef1d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_d_l_camera"
+        },
+        "hornet_b_d_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "708c6515-30b2-e189-b9d5-db6d7c06a828",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_d_l"
+        },
+        "hornet_b_d_f": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e51df9ce-52cd-eee8-ab7e-20c03faede5f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hornet_b_d_f"
+        },
+        "garbage_wing_r": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f462e36b-bddd-e733-a1a4-0ba718255500",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_wing_r"
+        },
+        "garbage_wing_l": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "653f2fb7-0b15-1c6a-8f6c-81891c4f7ff5",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_wing_l"
+        },
+        "garbage_tail1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8c0011e3-a32d-0d80-223b-6af1e97fd260",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_tail1"
+        },
+        "garbage_tail": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "56dee7ee-2e40-a448-21fb-b02d1e0a641e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_tail"
+        },
+        "garbage_skid": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "2517aba6-f03f-d7ec-0f0b-f0101d5a3832",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_skid"
+        },
+        "garbage_canopy2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "4cf9a82d-9192-5fbc-d525-9f327f51ad6b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_canopy2"
+        },
+        "garbage_canopy1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c7378da4-0de9-d279-6ebb-ff6e541be80c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_canopy1"
+        },
+        "garbage_body": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "289f78ae-844f-d0b0-7ecf-c09a6a263e74",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_body"
+        },
+        "garbage_body.004": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "eb980f0e-ef37-5eae-b881-af1da8e9e071",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_body"
+        },
+        "garbage_body.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f6f30749-cdce-84ed-c49a-d41724059ef9",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_body"
+        },
+        "garbage_body.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1958aaf6-9dc4-8c33-8b48-e8815226ebab",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_body"
+        },
+        "garbage_body.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0680346e-1a91-85fe-1eab-bd39f5b0400d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "garbage_body"
+        },
+        "fx_minor_smoke": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "186372c0-9206-a621-01f7-801ec256be84",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_minor_smoke"
+        },
+        "fx_minor_smoke.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "37968c26-daeb-a307-2bbb-8cb73a63536f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_minor_smoke"
+        },
+        "fx_minor_smoke.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "23a88d83-04c1-bcdc-fdbc-ec0a8fbbacca",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_minor_smoke"
+        },
+        "fx_minor_smoke.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6f2a3dc4-f1b8-f80b-74f5-71eb8addedfb",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_minor_smoke"
+        },
+        "fx_major_smoke": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6ef7f86c-2c53-24ad-9eb6-e383c64ac82f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_major_smoke"
+        },
+        "fx_major_smoke.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "dbdba1dd-42bf-175e-6f4a-33514432cd47",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_major_smoke"
+        },
+        "fx_major_smoke.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1c18e866-ec41-f6fa-036b-060c1a10d357",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_major_smoke"
+        },
+        "fx_major_smoke.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b5619fbc-c14a-b6a7-bc62-537d0fb500a7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_major_smoke"
+        },
+        "fx_explosion": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8fa8905c-a7e3-772a-ff34-482d1c018d65",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_explosion"
+        },
+        "cargo": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "52ad2a3f-c66d-08cf-65df-4a9908059c33",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "cargo"
+        },
+        "b_aim_pitch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}

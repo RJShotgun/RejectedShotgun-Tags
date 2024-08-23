@@ -1,5 +1,5 @@
 # RejectedShotgun's Tags
-Tag files and Data files for Halo 1/2/3/ODST/Reach
+Tag files, soundbanks, and data files for Halo 1/2/3/ODST/Reach
 
 I do ask that you credit me for the many, many hours I have put in to creating these. It's not a requirement, but would be much appreciated :)
 

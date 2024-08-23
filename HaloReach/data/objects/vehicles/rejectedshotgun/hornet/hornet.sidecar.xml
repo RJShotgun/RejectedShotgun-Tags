@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2023-11-16 17:34:03</Created>
+    <By>Drake</By>
+    <SourceBlend>objects\vehicles\rejectedshotgun\hornet\hornet.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="hornet" Type="model">
+    <OutputTagCollection>
+      <OutputTag Type="model">objects\vehicles\rejectedshotgun\hornet\hornet</OutputTag>
+      <OutputTag Type="vehicle">objects\vehicles\rejectedshotgun\hornet\hornet</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="canopy" Active="true"/>
+        <FaceCollectionEntry Index="2" Name="engine_l" Active="true"/>
+        <FaceCollectionEntry Index="3" Name="engine_r" Active="true"/>
+        <FaceCollectionEntry Index="4" Name="flap_l" Active="true"/>
+        <FaceCollectionEntry Index="5" Name="flap_r" Active="true"/>
+        <FaceCollectionEntry Index="6" Name="skid_l" Active="true"/>
+        <FaceCollectionEntry Index="7" Name="skid_r" Active="true"/>
+        <FaceCollectionEntry Index="8" Name="tail" Active="true"/>
+        <FaceCollectionEntry Index="9" Name="wing_l" Active="true"/>
+        <FaceCollectionEntry Index="10" Name="wing_r" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="hornet" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="minor" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_minor_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="destroyed" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_destroyed_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="major" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_major_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">objects\vehicles\rejectedshotgun\hornet\hornet</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="physics_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_physics.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="physics_model">objects\vehicles\rejectedshotgun\hornet\hornet</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="collision_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_collision.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="collision_model">objects\vehicles\rejectedshotgun\hornet\hornet</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="markers">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\models\hornet_markers.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="model_animation_graph">
+        <ContentNetwork Name="any idle" Type="Base" ModelAnimationMovementData="None">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\animations\any idle.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="any vehicle landing_gear" Type="Overlay" ModelAnimationOverlayBlending="Additive" ModelAnimationOverlayType="Keyframe">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\animations\any vehicle landing_gear.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="vehicle open_close" Type="Overlay" ModelAnimationOverlayBlending="Additive" ModelAnimationOverlayType="Keyframe">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\animations\vehicle open_close.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="vehicle rotate_props" Type="Overlay" ModelAnimationOverlayBlending="Additive" ModelAnimationOverlayType="Keyframe">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\animations\vehicle rotate_props.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="vehicle steering" Type="Overlay" ModelAnimationOverlayBlending="Additive" ModelAnimationOverlayType="Pose">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\animations\vehicle steering.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="vehicle throttle" Type="Overlay" ModelAnimationOverlayBlending="Additive" ModelAnimationOverlayType="Pose">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\animations\vehicle throttle.gr2</IntermediateFile>
+        </ContentNetwork>
+        <ContentNetwork Name="vehicle throttle_side" Type="Overlay" ModelAnimationOverlayBlending="Additive" ModelAnimationOverlayType="Pose">
+          <InputFile>objects\vehicles\rejectedshotgun\hornet\hornet.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\hornet\export\animations\vehicle throttle_side.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="frame_event_list">objects\vehicles\rejectedshotgun\hornet\hornet</OutputTag>
+          <OutputTag Type="model_animation_graph">objects\vehicles\rejectedshotgun\hornet\hornet</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>
