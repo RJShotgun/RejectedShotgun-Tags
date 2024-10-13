@@ -1,0 +1,573 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default','hull'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0,1"
+        ]
+    },
+    "nodes_properties": {
+        "behemoth_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "b4dd5eaf-7f22-8f9f-604c-be92e972ee6e",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "b_pedestal": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_dummy": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "936634661",
+            "bungie_frame_ID2": "-1896854034",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_pitch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "907117332",
+            "bungie_frame_ID2": "1134044997",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_yaw": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "878132555",
+            "bungie_frame_ID2": "-816734465",
+            "bungie_object_animates": "1"
+        },
+        "hull": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        },
+        "tread_fr_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "863544774",
+            "bungie_frame_ID2": "-9666716",
+            "bungie_object_animates": "1"
+        },
+        "tread_fr_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "tread_fl_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "tread_fl_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "tread_br_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "tread_br_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "tread_bl_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "tread_bl_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "ramp": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "mega_physics": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "windshield": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "4ea99bf5-e4bd-b2c8-5052-483ec271961c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "wall": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "69c75197-4dca-1995-d0c8-343b9aace3ae",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "turret01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "1f9f1dfc-e04e-49f4-fc28-9d6d359c09e2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "turret": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "8bc56123-c9aa-12dc-8900-158272fe1a0d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_front_left": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "88c1dd41-25eb-f6a9-19e1-eada8aadbb93",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_front": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3b3c5ee5-27d1-4d8f-26e1-d53ae18c13ea",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_back_left.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "efdbab0e-6c68-3b20-5d0d-a69f08bae6e6",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_back_left": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "87567f3b-44be-afad-5b54-c9462cfec66a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_back_b_left.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "15cfdf68-875d-8a8d-c4da-ca67f51050df",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_back_b.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "bda221e5-62c9-9dbd-b2ce-3a1e3a6eee45",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_back.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "180063be-2717-13c2-9294-050422296670",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "tread_back": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "b091514d-2360-081c-c642-c5cedcbbf1c5",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_top05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f897febd-946a-b82a-92a2-a69c129f02e2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_top04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "11d60db1-d152-f186-6132-32b9f3946c69",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_top03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "657cdbce-d419-e0fd-0d85-082545efb5de",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_top02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "55b08c1b-a421-dd6e-7b63-ca8bce12e7d4",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_neck05": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "78b33cf7-53e5-3fa1-032f-99cdd982ce52",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_neck04": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7a374552-cffa-c1cd-31ed-520fd19fb9ed",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_neck03": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "1cc4aaff-60e5-658a-f00f-2ce0f117d117",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "strut_neck02": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a7dc4fe7-1f6b-d1eb-e05f-c0833cff740d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "side_board01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9860d46d-922e-88e8-b73b-e0c0d513d015",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "side_board": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9ecd87bb-2bb3-8fad-c7fa-2cf85cd23632",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "second": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "da9e7ef1-8c83-da70-22c5-a446d98fd466",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "roof": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "fe61ad5e-c79a-9f91-ebc3-2985abc9cf65",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "right_fender_left": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "050fbccf-6b7f-9c82-6c06-7c21a69f9ea2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "right_fender": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7c45e226-8952-34dc-74b4-e913be1dbd8b",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "rear_fender_left": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "cb837ca5-4e8d-3b9b-34a3-d14c17be9077",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "rear_fender": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "187f331c-658a-60fa-5ee8-9b620e4ac3a7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "ramp_brace": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "1d65d5dd-bbde-8aba-1b43-e91cf85bdd88",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "ramp.padding": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9eb2dbce-2c7c-2f3a-1341-0a5038861423",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "outer_cab": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "886ed898-5752-a6f0-b974-c527613125aa",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "light01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "e4235e10-da26-5e49-e956-ad5ec73012c0",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "light": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "092e8316-5f49-c36c-c7bd-5af69837cea6",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "inner_cab": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d5388385-3579-5107-b14f-18a6c5928592",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "hall_wall_b": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a5d59e2f-54bb-9b2c-b6fd-75fc8a16b30f",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "hall_wall": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6d4bb661-75cb-c18b-5073-358bde7acb3e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "gun_platform01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a7b9566d-2685-06ac-7cf4-572be3649c9d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "gun_platform": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "ddb4e629-9bce-731a-33b1-ef09e960d019",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "front_lights": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "fcee73d2-e534-b976-42ee-c2c4a0e5b2ef",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "front_cab": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7434aa53-87ee-1ded-3659-9e13e45dbef1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "floor": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c36e5c56-60f2-8371-d4bd-648f04734c87",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "engine01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d5d0be04-a968-cfaf-b358-669da3fbddaa",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "engine": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6a33c619-7fc3-bd27-24e2-551a756e0883",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "end_piece_left": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "bfbb5460-e873-beae-efc5-a5566f2367ed",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "end_piece01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6d0c52bf-0776-b3c0-06c9-a13cf7754172",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "end_big": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "775c1315-a612-c974-121a-be964a797090",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "end": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5b68f49a-a13d-3460-503f-a3b6361ef08e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "door_jamb_front": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0501abd9-53ee-269b-e9bb-10555f7216a0",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "door_jamb": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0d3dec6c-9180-f369-b2b4-bb9ed9558a08",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "diag_brace": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f7dfb67d-d19b-3b6f-f3fb-74a23e907d02",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield17": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7d6ec818-054c-c521-0ae3-e1d1432b6d31",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield15": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f192ca35-4324-ffa2-84ff-28f62a781222",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield14": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "718766ac-c0ea-4607-761f-f6885350f2cd",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield13": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5e3814e5-f6e2-d5e2-b507-bbfdbcb03d11",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield12": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a0b40872-1690-f31e-620a-b3f1cae53767",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield11": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "76865c62-851a-973b-62a7-2e7694c482db",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield10": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d61d2ac6-d184-4206-516b-6a7ac9c74d71",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "def_shield": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "434a51ec-1023-47c9-07f8-04f8f2d67f5f",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "crane_weight": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9a4a4e38-a13a-fda3-3416-bf7edbaa1c89",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "crane_engine": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "087ec595-e5b6-d43e-aa90-f215666fd0d2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "crane_box": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "79908bb8-0f92-d4cd-2f7f-54f918da6f8d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "crane_base": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "54dfa517-e325-e711-b33b-ba2f8a780e2a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "cab_wall": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "1fe773fa-4492-47d5-17de-476049a0965d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "cab_ramp": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c28a1aba-669a-419a-223b-56ce68514cc5",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "cab_halls": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5fac09bd-14c5-22f6-c633-29ad0324204d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "cab_floor": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "333384ef-a028-11aa-aafe-784d6c617f92",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "cab_end": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "06ac1e29-26f6-be5e-c2a6-bee2ca58ec24",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "big_box": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "72a7d586-6df2-2ec6-13b4-680ae9536bac",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "back_wall_left": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "52fc5c50-9911-945a-339d-4a372ba9b3c0",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "back_wall.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3824973d-a700-e93a-710f-e4f570b77181",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "ammo_box": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "853d9d6e-17df-549c-9ffa-e21731644019",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "2nd_floor_left": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "87978f81-a8e0-3f8d-f3b5-1860823cbf8b",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "2nd_floor01": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6993ce25-30c2-6074-5b31-0fcb8ae631d7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "crane_host": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "cdc5a82b-d732-6603-559b-755399221ba1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        },
+        "back_wall": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "b52a8069-df41-9b6e-4d43-04da54eeb7a1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "hull"
+        }
+    },
+    "material_properties": {
+        "hard_metal_thick": {
+            "bungie_shader_path": "override",
+            "bungie_shader_type": "override"
+        }
+    }
+}

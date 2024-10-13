@@ -9,6 +9,10 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 **Vehicle:** Golden Warthog
 
+**Weapon:** Assault Rifle
+
+**Weapon:** Magnum
+
 
 
 ### Halo 3
@@ -30,6 +34,8 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 **Weapon:** Stanchion
 
 ### Halo Reach
+
+**Vehicle:** Elephant
 
 **Vehicle:** Hornet
 

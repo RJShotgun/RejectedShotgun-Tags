@@ -1,0 +1,225 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default','hull'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0,1"
+        ]
+    },
+    "nodes_properties": {
+        "behemoth_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "b4dd5eaf-7f22-8f9f-604c-be92e972ee6e",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "b_pedestal": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_dummy": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "936634661",
+            "bungie_frame_ID2": "-1896854034",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_pitch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "907117332",
+            "bungie_frame_ID2": "1134044997",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_yaw": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "878132555",
+            "bungie_frame_ID2": "-816734465",
+            "bungie_object_animates": "1"
+        },
+        "hull": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        },
+        "tread_fr_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "863544774",
+            "bungie_frame_ID2": "-9666716",
+            "bungie_object_animates": "1"
+        },
+        "tread_fr_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "tread_fl_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "tread_fl_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "tread_br_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "tread_br_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "tread_bl_b": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "tread_bl_a": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "ramp": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "mega_physics": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "hull:base": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "76501ade-c33b-854c-295b-c9da905af05a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "hull"
+        }
+    },
+    "material_properties": {
+        "beh_treads_left": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_treads_left",
+            "bungie_shader_type": "shader"
+        },
+        "beh_parts": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_parts",
+            "bungie_shader_type": "shader"
+        },
+        "beh_treads_right": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_treads_right",
+            "bungie_shader_type": "shader"
+        },
+        "beh_metal": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_metal",
+            "bungie_shader_type": "shader"
+        },
+        "beh_tiling_panels": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_tiling_panels",
+            "bungie_shader_type": "shader"
+        },
+        "beh_floor_metal": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_floor_metal",
+            "bungie_shader_type": "shader"
+        },
+        "beh_panels": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_panels",
+            "bungie_shader_type": "shader"
+        },
+        "beh_panels2": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_panels2",
+            "bungie_shader_type": "shader"
+        },
+        "beh_ramp": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_ramp",
+            "bungie_shader_type": "shader"
+        },
+        "beh_console": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_console",
+            "bungie_shader_type": "shader"
+        },
+        "beh_lower_control": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_lower_control",
+            "bungie_shader_type": "shader"
+        },
+        "beh_wall": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_wall",
+            "bungie_shader_type": "shader"
+        },
+        "beh_grate": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_grate",
+            "bungie_shader_type": "shader"
+        },
+        "beh_decals": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_decals",
+            "bungie_shader_type": "shader"
+        },
+        "beh_stains": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_stains",
+            "bungie_shader_type": "shader"
+        },
+        "beh_glass": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_glass",
+            "bungie_shader_type": "shader"
+        },
+        "scorpion_hull": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\scorpion_hull",
+            "bungie_shader_type": "shader"
+        },
+        "beh_treads": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\beh_treads",
+            "bungie_shader_type": "shader"
+        },
+        "xtra_decals": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\xtra_decals",
+            "bungie_shader_type": "shader"
+        },
+        "military_equipment": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\military_equipment",
+            "bungie_shader_type": "shader"
+        },
+        "military_decals": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\military_decals",
+            "bungie_shader_type": "shader"
+        },
+        "generator_turbine": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\generator_turbine",
+            "bungie_shader_type": "shader"
+        },
+        "military_equipment_2": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\military_equipment_2",
+            "bungie_shader_type": "shader"
+        },
+        "quartz_light": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\quartz_light",
+            "bungie_shader_type": "shader"
+        },
+        "light_glass": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\behemoth\\shaders\\light_glass",
+            "bungie_shader_type": "shader"
+        }
+    }
+}
