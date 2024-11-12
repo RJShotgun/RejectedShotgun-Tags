@@ -7,7 +7,21 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 ### Halo 2
 
+**Vehicle:** Brute Ghost
+
+**Vehicle:** Fuel Rod Ghost
+
 **Vehicle:** Golden Warthog
+
+**Vehicle:** Longsword
+
+**Vehicle:** Pelican
+
+**Vehicle:** Phantom
+
+**Vehicle:** Scarab (Read below for green lighting fix)
+
+**Vehicle:** Seraph
 
 **Weapon:** Assault Rifle
 
@@ -40,3 +54,8 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 **Vehicle:** Hornet
 
 **Some tag references may be missing from this repository. Create an issue for any you find and I will add the missing tags.**
+
+
+###Fixes:
+
+**Scarab green lighting fix:** In order for the Scarab to be viewed on your map in correct lighting you must place 'Spherical Harmonic Lighting' objects around your level. Once you have placed them, bake lighting on your map and the Scarab will use those points to remove the green lighting and be lit by the points.
