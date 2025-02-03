@@ -1,0 +1,227 @@
+;### VERSION ###
+8213
+;	<8197-8213>
+
+;### NODES ###
+3
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+skiff_turret
+-1
+0.7071067691	0.0000000000	0.0000000000	0.7071067691
+0.0000000000	0.0000000000	-4.5000000000
+
+;NODE 1
+hinge_yaw
+0
+0.7071067691	0.0000000843	0.0000000843	0.7071067691
+28.3857307434	0.1744382083	46.2181396484
+
+;NODE 2
+hinge_pitch
+1
+0.7071067691	0.0000000000	0.0000000000	0.7071067691
+28.5101718903	0.1744384766	50.8452072144
+
+;### MATERIALS ###
+1
+;	<name>
+;	<material name>
+
+;MATERIAL 0
+skiff_turret
+(2) Default Default
+
+;### MARKERS ###
+0
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### INSTANCE XREF PATHS ###
+0
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+0
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<node influences <index, weight>>
+;		<...>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;		<...>
+;	<vertex color <r,g,b>>
+
+;### TRIANGLES ###
+0
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+1
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;CONVEX 0
+phys
+-1
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.4818264246	-0.0424028859	0.6888446808
+24
+-35.9515609741	-35.9515609741	-5.4129519463
+-35.9515609741	-35.9515609741	5.4129519463
+-35.9515609741	35.9515609741	-5.4129519463
+-35.9515609741	35.9515609741	5.4129519463
+35.9515609741	-35.9515609741	-5.4129519463
+35.9515609741	-35.9515609741	5.4129519463
+35.9515609741	35.9515609741	-5.4129519463
+35.9515609741	35.9515609741	5.4129519463
+21.3291587830	-6.7541513443	1.5686860085
+21.3291587830	-6.7541513443	75.1259765625
+21.3291587830	6.4122905731	1.5686860085
+21.3291587830	6.4122905731	75.1259765625
+34.4956054688	-6.7541513443	1.5686860085
+34.4956054688	-6.7541513443	75.1259765625
+34.4956054688	6.4122905731	1.5686860085
+34.4956054688	6.4122905731	75.1259765625
+14.4573707581	-15.0435647964	56.0723037720
+14.4573707581	-15.0435647964	82.2261352539
+14.4573707581	16.5685100555	56.0723037720
+14.4573707581	16.5685100555	82.2261352539
+76.9845428467	-10.1673269272	54.7930221558
+76.9845428467	-10.1673269272	71.0332565308
+76.9845428467	11.6922721863	54.7930221558
+76.9845428467	11.6922721863	71.0332565308
+
+;### RAGDOLLS ###
+0
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle>
+
+;### HINGES ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT TO POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>
+
