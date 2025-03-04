@@ -1,0 +1,2375 @@
+#VRML V1.0 ascii
+
+Separator
+{
+	Coordinate3 { point[14498.608398 -5100.900879 2382.074463, 14596.399414 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14498.608398 -5100.900879 2382.074463, 14596.399414 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14498.608398 -5100.900879 2652.590088, 14596.399414 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14596.399414 -5100.900879 2652.590088, 14596.399414 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14498.608398 -5100.900879 2382.074463, 14498.608398 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14498.608398 -5100.900879 2652.590088, 14596.399414 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14596.399414 -5100.900879 2652.590088, 14596.399414 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14498.608398 -5100.900879 2382.074463, 14498.608398 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.320313 -5100.901367 1927.817017, 13678.219727 -5100.901367 1678.680420] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.219727 -5100.901367 1678.680420, 13677.658203 -5100.901367 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.320313 -5100.901367 1927.839111, 13678.320313 -5100.901367 1927.817139] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.320313 -5100.901367 1927.817017, 13678.219727 -5100.901367 1678.680420] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.219727 -5100.901367 1678.680420, 13677.658203 -5100.901367 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.320313 -5100.901367 1927.839111, 13678.320313 -5100.901367 1927.817139] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13727.660156 -5100.900879 1927.839111, 13828.978516 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13828.978516 -5100.900879 1927.839111, 13854.318359 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13702.321289 -5100.900879 1927.839111, 13727.660156 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.319336 -5100.900879 1927.839111, 13702.321289 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13854.318359 -5100.900879 1927.839111, 13878.319336 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13878.320313 -5100.901367 1927.817139, 13878.219727 -5100.901367 1678.680420] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13878.320313 -5100.901367 1927.839111, 13878.320313 -5100.901367 1927.817139] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13828.314453 -5100.900879 268.133423, 13726.996094 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13877.657227 -5100.900879 268.133423, 13853.637695 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13701.673828 -5100.900879 268.133423, 13677.657227 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13853.637695 -5100.900879 268.133423, 13828.314453 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13726.996094 -5100.900879 268.133423, 13701.673828 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13878.219727 -5100.901367 1678.680420, 13877.658203 -5100.901367 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13727.660156 -5100.900879 1927.839111, 13828.978516 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13828.978516 -5100.900879 1927.839111, 13854.318359 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13702.321289 -5100.900879 1927.839111, 13727.660156 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.319336 -5100.900879 1927.839111, 13702.321289 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13854.318359 -5100.900879 1927.839111, 13878.319336 -5100.900879 1927.839111] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13828.314453 -5100.900879 268.133423, 13726.996094 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13877.657227 -5100.900879 268.133423, 13853.637695 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13701.673828 -5100.900879 268.133423, 13677.657227 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13853.637695 -5100.900879 268.133423, 13828.314453 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13726.996094 -5100.900879 268.133423, 13701.673828 -5100.900879 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13878.320313 -5100.901367 1927.817139, 13878.219727 -5100.901367 1678.680420] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13878.219727 -5100.901367 1678.680420, 13877.658203 -5100.901367 268.133423] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13969.482422 -5100.900879 2382.074463, 14067.271484 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13969.482422 -5100.900879 2382.074463, 14067.271484 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13969.482422 -5100.900879 2652.590088, 14067.271484 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14067.271484 -5100.900879 2652.590088, 14067.271484 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13969.482422 -5100.900879 2382.074463, 13969.482422 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13969.482422 -5100.900879 2652.590088, 14067.271484 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[14067.271484 -5100.900879 2652.590088, 14067.271484 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13969.482422 -5100.900879 2382.074463, 13969.482422 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13878.320313 -5100.901367 1927.817139, 13878.219727 -5100.901367 1678.680420] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13878.320313 -5100.901367 1927.839111, 13878.320313 -5100.901367 1927.817139] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 -654.576721 267.239990, 8721.586914 -680.779541 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.586914 -289.619354 267.239990, 8859.207031 -315.822510 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.078125 -680.779663 791.767334, 9207.433594 -654.576538 616.155273] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.078125 -680.779663 791.767334, 9207.433594 -654.576538 616.155273] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 -654.576721 267.239990, 8721.586914 -680.779541 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.076172 -289.619415 791.765625, 9207.431641 -315.822540 616.153748] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.075195 -680.779724 791.765015, 9282.720703 -654.576599 967.382080] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.431641 -315.823181 616.153564, 9179.874023 -387.409973 487.595184] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.279297 -387.409882 1095.936401, 9282.722656 -315.826233 967.382996] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.875000 -582.989258 487.596436, 9207.432617 -654.576782 616.154602] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.722656 -654.576477 967.383301, 9310.279297 -582.992310 1095.936279] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.874023 -387.409363 487.596344, 9169.787109 -485.198517 440.541931] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9320.366211 -485.198700 1142.995239, 9310.278320 -387.409515 1095.936035] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.279297 -582.988586 1095.935425, 9320.367188 -485.198517 1142.994873] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9169.788086 -485.198608 440.541748, 9179.875000 -582.988464 487.596039] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.720703 -315.822357 967.381287, 9245.074219 -289.619202 791.764282] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.586914 -289.619354 267.239990, 8859.207031 -315.822510 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.960938 -654.576416 267.239990, 8721.585938 -680.779541 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 -387.409973 267.239960, 8859.207031 -315.822998 267.239960] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.960938 -315.824127 267.239990, 8483.213867 -387.410370 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 -654.576111 267.239990, 8959.953125 -582.988342 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.213867 -582.989136 267.239990, 8583.961914 -654.577271 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 -485.198608 267.239990, 8959.953125 -387.409210 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.214844 -387.409607 267.239990, 8446.335938 -485.198608 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8446.341797 -485.198975 267.239990, 8483.219727 -582.988342 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.954102 -582.988586 267.239990, 8996.829102 -485.198608 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.585938 -289.619446 267.239990, 8583.960938 -315.822693 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.076172 -289.619415 791.765625, 9207.431641 -315.822540 616.153748] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.960938 -654.576416 267.239990, 8721.585938 -680.779541 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.075195 -680.779724 791.765015, 9282.720703 -654.576599 967.382080] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 -387.409973 267.239960, 8859.207031 -315.822998 267.239960] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.431641 -315.823181 616.153564, 9179.874023 -387.409973 487.595184] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.960938 -315.824127 267.239990, 8483.213867 -387.410370 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.279297 -387.409882 1095.936401, 9282.722656 -315.826233 967.382996] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 -654.576111 267.239990, 8959.953125 -582.988342 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.875000 -582.989258 487.596436, 9207.432617 -654.576782 616.154602] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.213867 -582.989136 267.239990, 8583.961914 -654.577271 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.722656 -654.576477 967.383301, 9310.279297 -582.992310 1095.936279] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 -485.198608 267.239990, 8959.953125 -387.409210 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.874023 -387.409363 487.596344, 9169.787109 -485.198517 440.541931] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.214844 -387.409607 267.239990, 8446.335938 -485.198608 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9320.366211 -485.198700 1142.995239, 9310.278320 -387.409515 1095.936035] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8446.341797 -485.198975 267.239990, 8483.219727 -582.988342 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.279297 -582.988586 1095.935425, 9320.367188 -485.198517 1142.994873] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.954102 -582.988586 267.239990, 8996.829102 -485.198608 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9169.788086 -485.198608 440.541748, 9179.875000 -582.988464 487.596039] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 -117.878723 267.239990, 8859.207031 -189.466858 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 -189.465332 267.239990, 8483.213867 -117.877579 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 -20.088005 267.239990, 8966.354492 -100.900841 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8966.354492 -100.900841 267.239990, 8959.953125 -117.878151 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8476.816406 -100.901222 267.239990, 8446.340820 -20.088196 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.219727 -117.878342 267.239990, 8476.816406 -100.901222 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8446.334961 -20.088005 267.240021, 8483.213867 77.701950 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.432617 -189.467056 616.155151, 9179.875000 -117.879204 487.596619] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.432617 -189.467056 616.155151, 9179.875000 -117.879204 487.596619] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 -117.878723 267.239990, 8859.207031 -189.466858 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.720703 -189.466202 967.382385, 9310.278320 -117.882065 1095.935425] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9169.787109 -20.088100 440.541656, 9179.874023 -117.878151 487.596039] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.278320 -117.878250 1095.936401, 9320.366211 -20.088100 1142.995728] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9320.367188 -20.088100 1142.994141, 9310.279297 77.701950 1095.934937] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.431641 -189.466202 616.154297, 9245.077148 -215.668320 791.766357] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.077148 175.492035 791.766785, 9207.432617 149.288925 616.154663] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.077148 -215.668152 791.766541, 9282.722656 -189.466003 967.383789] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.431641 149.288757 616.154236, 9179.874023 77.702049 487.595856] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.280273 77.701859 1095.936890, 9282.722656 149.285416 967.383911] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.874023 77.701859 487.596680, 9169.787109 -20.088100 440.542328] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.720703 149.288986 967.382080, 9245.075195 175.492081 791.765259] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 -189.465332 267.239990, 8483.213867 -117.877579 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 -20.088005 267.239990, 8966.354492 -100.900841 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8966.354492 -100.900841 267.239990, 8959.953125 -117.878151 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8476.816406 -100.901222 267.239990, 8446.340820 -20.088196 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.219727 -117.878342 267.239990, 8476.816406 -100.901222 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8446.334961 -20.088005 267.240021, 8483.213867 77.701950 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 149.288757 267.239990, 8721.585938 175.491913 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 77.701187 267.239960, 8859.207031 149.287796 267.239960] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 149.288559 267.239990, 8483.214844 77.701950 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 -20.088387 267.239960, 8959.953125 77.701950 267.239960] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.586914 175.492386 267.239990, 8583.961914 149.289139 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.585938 -215.668304 267.240021, 8859.207031 -189.466095 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 -189.466095 267.239990, 8721.586914 -215.668304 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.720703 -189.466202 967.382385, 9310.278320 -117.882065 1095.935425] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9169.787109 -20.088100 440.541656, 9179.874023 -117.878151 487.596039] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.278320 -117.878250 1095.936401, 9320.366211 -20.088100 1142.995728] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9320.367188 -20.088100 1142.994141, 9310.279297 77.701950 1095.934937] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.585938 -215.668304 267.240021, 8859.207031 -189.466095 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.431641 -189.466202 616.154297, 9245.077148 -215.668320 791.766357] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 149.288757 267.239990, 8721.585938 175.491913 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.077148 175.492035 791.766785, 9207.432617 149.288925 616.154663] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 -189.466095 267.239990, 8721.586914 -215.668304 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.585938 -289.619446 267.239990, 8583.960938 -315.822693 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.077148 -215.668152 791.766541, 9282.722656 -189.466003 967.383789] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.720703 -315.822357 967.381287, 9245.074219 -289.619202 791.764282] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 77.701187 267.239960, 8859.207031 149.287796 267.239960] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.431641 149.288757 616.154236, 9179.874023 77.702049 487.595856] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 149.288559 267.239990, 8483.214844 77.701950 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.280273 77.701859 1095.936890, 9282.722656 149.285416 967.383911] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 -20.088387 267.239960, 8959.953125 77.701950 267.239960] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.874023 77.701859 487.596680, 9169.787109 -20.088100 440.542328] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.585938 654.304504 267.239990, 8859.207031 628.102295 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 289.347565 267.239990, 8721.586914 263.144409 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 628.102417 267.239990, 8721.585938 654.304443 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.584961 263.144501 267.239990, 8583.961914 289.347473 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 360.934082 267.239990, 8859.207031 289.347473 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 628.102478 267.239990, 8959.953125 556.515869 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.960938 289.348602 267.239990, 8483.213867 360.935211 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.586914 175.492386 267.239990, 8583.961914 149.289139 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.214844 556.515503 267.240021, 8583.960938 628.101379 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 458.724213 267.239990, 8959.953125 360.934448 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.218750 360.934265 267.239990, 8446.339844 458.724426 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 556.515137 267.239990, 8996.828125 458.724426 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8446.336914 458.724213 267.240021, 8483.215820 556.514954 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.432617 628.102295 616.154480, 9245.077148 654.304443 791.766541] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.432617 628.102295 616.154480, 9245.077148 654.304443 791.766541] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.585938 654.304504 267.239990, 8859.207031 628.102295 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.432617 289.347412 616.154846, 9245.078125 263.144318 791.767151] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.721680 628.102417 967.383240, 9245.076172 654.304504 791.765991] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.075195 263.144104 791.764832, 9282.720703 289.347168 967.382080] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.875000 360.934082 487.596130, 9207.432617 289.347565 616.154114] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.430664 628.101624 616.152588, 9179.872070 556.514771 487.593842] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.721680 289.347565 967.382568, 9310.278320 360.930634 1095.935425] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.279297 556.515137 1095.936279, 9282.722656 628.098694 967.383484] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9169.787109 458.724365 440.542053, 9179.874023 360.934326 487.596436] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.281250 360.934448 1095.936890, 9320.369141 458.724426 1142.996216] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9320.367188 458.724426 1142.994873, 9310.279297 556.515381 1095.935669] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.875000 556.515320 487.595276, 9169.788086 458.724304 440.540955] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 289.347565 267.239990, 8721.586914 263.144409 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.961914 628.102417 267.239990, 8721.585938 654.304443 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8721.584961 263.144501 267.239990, 8583.961914 289.347473 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 360.934082 267.239990, 8859.207031 289.347473 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8859.207031 628.102478 267.239990, 8959.953125 556.515869 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8583.960938 289.348602 267.239990, 8483.213867 360.935211 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.214844 556.515503 267.240021, 8583.960938 628.101379 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8996.828125 458.724213 267.239990, 8959.953125 360.934448 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8483.218750 360.934265 267.239990, 8446.339844 458.724426 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8446.336914 458.724213 267.240021, 8483.215820 556.514954 267.240021] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8959.953125 556.515137 267.239990, 8996.828125 458.724426 267.239990] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.432617 289.347412 616.154846, 9245.078125 263.144318 791.767151] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.721680 628.102417 967.383240, 9245.076172 654.304504 791.765991] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9245.075195 263.144104 791.764832, 9282.720703 289.347168 967.382080] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.875000 360.934082 487.596130, 9207.432617 289.347565 616.154114] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9207.430664 628.101624 616.152588, 9179.872070 556.514771 487.593842] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.721680 289.347565 967.382568, 9310.278320 360.930634 1095.935425] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9282.720703 149.288986 967.382080, 9245.075195 175.492081 791.765259] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.279297 556.515137 1095.936279, 9282.722656 628.098694 967.383484] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9169.787109 458.724365 440.542053, 9179.874023 360.934326 487.596436] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9310.281250 360.934448 1095.936890, 9320.369141 458.724426 1142.996216] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9320.367188 458.724426 1142.994873, 9310.279297 556.515381 1095.935669] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9179.875000 556.515320 487.595276, 9169.788086 458.724304 440.540955] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 4899.099121 2118.459229, 15371.850586 4899.099121 2122.908203] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 4899.099121 2118.459229, 15371.850586 4899.099121 2122.908203] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 4899.099121 2118.458984, 15429.329102 4899.099121 2122.908203] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.109375 4899.099121 2137.135254, 15371.849609 4899.099121 2122.908447] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15429.331055 4899.099121 2122.908447, 15458.069336 4899.099121 2137.135010] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 4899.099121 2314.037109, 15343.111328 4899.099121 2295.361572] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.594727 4899.099121 2246.466553, 15458.070313 4899.099121 2295.361084] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 4899.099121 2137.134521, 15493.592773 4899.099121 2186.029053] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.585938 4899.099121 2246.466797, 15307.585938 4899.099121 2186.029297] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 4899.099121 2295.361328, 15400.588867 4899.099121 2314.036621] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.586914 4899.099609 2186.029541, 15343.112305 4899.099609 2137.134277] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.112305 4899.099609 2295.360596, 15307.586914 4899.099609 2246.466797] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.592773 4899.099121 2186.029297, 15493.592773 4899.099121 2246.466797] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 4899.099121 2118.458984, 15429.329102 4899.099121 2122.908203] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.109375 4899.099121 2137.135254, 15371.849609 4899.099121 2122.908447] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15429.331055 4899.099121 2122.908447, 15458.069336 4899.099121 2137.135010] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 4899.099121 2314.037109, 15343.111328 4899.099121 2295.361572] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.594727 4899.099121 2246.466553, 15458.070313 4899.099121 2295.361084] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 4899.099121 2137.134521, 15493.592773 4899.099121 2186.029053] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.585938 4899.099121 2246.466797, 15307.585938 4899.099121 2186.029297] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 4899.099121 2295.361328, 15400.588867 4899.099121 2314.036621] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.586914 4899.099609 2186.029541, 15343.112305 4899.099609 2137.134277] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.112305 4899.099609 2295.360596, 15307.586914 4899.099609 2246.466797] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.592773 4899.099121 2186.029297, 15493.592773 4899.099121 2246.466797] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15371.850586 -5100.900879 2122.908203, 15400.588867 -5100.900879 2118.459229] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15371.850586 -5100.900879 2122.908203, 15400.588867 -5100.900879 2118.459229] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15429.329102 -5100.900879 2122.908203, 15400.588867 -5100.900879 2118.458984] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15371.849609 -5100.900879 2122.908447, 15343.109375 -5100.900879 2137.135254] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 -5100.900879 2137.135010, 15429.331055 -5100.900879 2122.908447] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.111328 -5100.900879 2295.361572, 15400.590820 -5100.900879 2314.037598] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 -5100.900879 2295.361816, 15493.594727 -5100.900879 2246.467285] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.592773 -5100.900879 2186.029053, 15458.069336 -5100.900879 2137.134521] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 -5100.900879 2314.036621, 15458.069336 -5100.900879 2295.361328] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.112305 -5100.901367 2137.135010, 15307.586914 -5100.901367 2186.029541] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.586914 -5100.901367 2246.466797, 15343.112305 -5100.901367 2295.361328] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.585938 -5100.900879 2186.029297, 15307.585938 -5100.900879 2246.467041] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.592773 -5100.900879 2246.467041, 15493.592773 -5100.900879 2186.029297] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15429.329102 -5100.900879 2122.908203, 15400.588867 -5100.900879 2118.458984] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15371.849609 -5100.900879 2122.908447, 15343.109375 -5100.900879 2137.135254] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 -5100.900879 2137.135010, 15429.331055 -5100.900879 2122.908447] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.111328 -5100.900879 2295.361572, 15400.590820 -5100.900879 2314.037598] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15458.069336 -5100.900879 2295.361816, 15493.594727 -5100.900879 2246.467285] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.592773 -5100.900879 2186.029053, 15458.069336 -5100.900879 2137.134521] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15400.588867 -5100.900879 2314.036621, 15458.069336 -5100.900879 2295.361328] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15343.112305 -5100.901367 2137.135010, 15307.586914 -5100.901367 2186.029541] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.586914 -5100.901367 2246.466797, 15343.112305 -5100.901367 2295.361328] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15027.736328 -5100.900879 2382.074463, 15125.526367 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15027.736328 -5100.900879 2382.074463, 15125.526367 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15027.736328 -5100.900879 2652.590088, 15125.526367 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15125.526367 -5100.900879 2652.590088, 15125.526367 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15027.736328 -5100.900879 2382.074463, 15027.736328 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15027.736328 -5100.900879 2652.590088, 15125.526367 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15125.526367 -5100.900879 2652.590088, 15125.526367 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15307.585938 -5100.900879 2186.029297, 15307.585938 -5100.900879 2246.467041] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15027.736328 -5100.900879 2382.074463, 15027.736328 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16085.989258 -5100.900879 2382.074463, 16183.780273 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16085.989258 -5100.900879 2382.074463, 16183.780273 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16085.989258 -5100.900879 2652.590088, 16183.780273 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16183.780273 -5100.900879 2652.590088, 16183.780273 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16085.989258 -5100.900879 2382.074463, 16085.989258 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16085.989258 -5100.900879 2652.590088, 16183.780273 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16183.780273 -5100.900879 2652.590088, 16183.780273 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15556.863281 -5100.900879 2382.074463, 15654.652344 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15556.863281 -5100.900879 2382.074463, 15654.652344 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15556.863281 -5100.900879 2652.590088, 15654.652344 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15654.652344 -5100.900879 2652.590088, 15654.652344 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15556.863281 -5100.900879 2382.074463, 15556.863281 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15556.863281 -5100.900879 2652.590088, 15654.652344 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15654.652344 -5100.900879 2652.590088, 15654.652344 -5100.900879 2382.074463] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15556.863281 -5100.900879 2382.074463, 15556.863281 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[15493.592773 -5100.900879 2246.467041, 15493.592773 -5100.900879 2186.029297] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[16085.989258 -5100.900879 2382.074463, 16085.989258 -5100.900879 2652.590088] }
+	MaterialBinding { value PER_VERTEX }
+	Material { diffuseColor[1.000000 0.000000 0.000000, 1.000000 0.000000 0.000000] transparency[0.000000, 0.000000] }
+	IndexedLineSet { coordIndex[0,1,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 149.288834 921.018311, 9511.694336 -189.466049 921.018311, 9323.119141 -20.088139 1145.752686] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 -189.466049 170.127670, 8675.616211 -20.088139 -54.606670, 8487.041016 149.288834 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -315.822510 921.018311, 9511.694336 -654.576416 921.018311, 9323.119141 -485.198517 1145.752686] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9323.119141 458.724365 1145.752686, 9511.694336 628.102295 921.018311, 9574.553711 458.724365 846.108154] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 458.724365 -54.606670, 8487.041016 628.102295 170.127670, 8424.182617 458.724365 245.037842] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 -485.198517 -54.606670, 8424.182617 -485.198517 245.037842, 8487.041016 -654.576416 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9323.119141 458.724365 1145.752686, 9574.553711 458.724365 846.108154, 9511.694336 289.347412 921.018311] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 458.724365 -54.606670, 8424.182617 458.724365 245.037842, 8487.041016 289.347412 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 -485.198517 -54.606670, 8487.041016 -315.822510 170.127670, 8424.182617 -485.198517 245.037842] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 -654.576416 170.127670, 8612.757813 -654.576416 20.303453, 8675.616211 -485.198517 -54.606670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 -485.198517 -54.606670, 8612.757813 -315.822510 20.303453, 8487.041016 -315.822510 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 458.724365 -54.606670, 8487.041016 289.347412 170.127670, 8549.899414 263.144318 95.213608] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 -20.088139 -54.606670, 8487.041016 -189.466049 170.127670, 8549.899414 -215.668213 95.213608] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 458.724365 -54.606670, 8549.899414 654.304443 95.213608, 8487.041016 628.102295 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 149.288834 170.127670, 8675.616211 -20.088139 -54.606670, 8658.772461 77.701904 -34.536377] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 149.288834 921.018311, 9557.709961 -117.878174 866.178467, 9511.694336 -189.466049 921.018311] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 149.288834 170.127670, 8441.021484 -117.878174 224.963623, 8487.041016 -189.466049 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -315.822510 921.018311, 9557.709961 -582.988525 866.178467, 9511.694336 -654.576416 921.018311] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9323.119141 458.724365 1145.752686, 9511.694336 289.347412 921.018311, 9448.835938 263.144318 995.928528] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9323.119141 458.724365 1145.752686, 9448.835938 654.304443 995.928528, 9511.694336 628.102295 921.018311] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 149.288834 921.018311, 9323.119141 -20.088139 1145.752686, 9339.962891 77.701904 1125.678467] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -189.466049 921.018311, 9339.962891 -117.878174 1125.678467, 9323.119141 -20.088139 1145.752686] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -654.576416 921.018311, 9339.962891 -582.988525 1125.678467, 9323.119141 -485.198517 1145.752686] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -315.822510 921.018311, 9323.119141 -485.198517 1145.752686, 9339.962891 -387.409424 1125.678467] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9323.119141 458.724365 1145.752686, 9385.977539 628.102295 1070.842529, 9448.835938 654.304443 995.928528] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9323.119141 458.724365 1145.752686, 9448.835938 263.144318 995.928528, 9385.977539 289.347412 1070.842529] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -654.576416 921.018311, 9385.977539 -654.576416 1070.842529, 9339.962891 -582.988525 1125.678467] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -189.466049 921.018311, 9385.977539 -189.466049 1070.842529, 9339.962891 -117.878174 1125.678467] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 149.288834 921.018311, 9339.962891 77.701904 1125.678467, 9385.977539 149.288834 1070.842529] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 149.288834 170.127670, 8658.772461 77.701904 -34.536377, 8612.757813 149.288834 20.303453] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -315.822510 921.018311, 9339.962891 -387.409424 1125.678467, 9385.977539 -315.822510 1070.842529] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 458.724365 -54.606670, 8612.757813 628.102295 20.303453, 8549.899414 654.304443 95.213608] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 -20.088139 -54.606670, 8549.899414 -215.668213 95.213608, 8612.757813 -189.466049 20.303453] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 458.724365 -54.606670, 8549.899414 263.144318 95.213608, 8612.757813 289.347412 20.303453] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 149.288834 921.018311, 9574.553711 -20.088139 846.108154, 9557.709961 -117.878174 866.178467] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -315.822510 921.018311, 9574.553711 -485.198517 846.108154, 9557.709961 -582.988525 866.178467] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 149.288834 170.127670, 8424.182617 -20.088139 245.037842, 8441.021484 -117.878174 224.963623] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 628.102295 170.127670, 8441.021484 556.515381 224.963623, 8424.182617 458.724365 245.037842] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 628.102295 921.018311, 9557.709961 556.515381 866.178467, 9574.553711 458.724365 846.108154] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 458.724365 -54.606670, 8658.772461 556.515381 -34.536377, 8612.757813 628.102295 20.303453] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 149.288834 170.127670, 8441.021484 77.701904 224.963623, 8424.182617 -20.088139 245.037842] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8424.182617 458.724365 245.037842, 8441.021484 360.934326 224.963623, 8487.041016 289.347412 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 149.288834 921.018311, 9557.709961 77.701904 866.178467, 9574.553711 -20.088139 846.108154] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9574.553711 458.724365 846.108154, 9557.709961 360.934326 866.178467, 9511.694336 289.347412 921.018311] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9385.977539 -315.822510 1070.842529, 9448.835938 -289.619354 995.928528, 9511.694336 -315.822510 921.018311] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8612.757813 -315.822510 20.303453, 8549.899414 -289.619354 95.213608, 8487.041016 -315.822510 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8424.182617 -485.198517 245.037842, 8441.021484 -582.988525 224.963623, 8487.041016 -654.576416 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9385.977539 149.288834 1070.842529, 9448.835938 175.491959 995.928528, 9511.694336 149.288834 921.018311] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8612.757813 149.288834 20.303453, 8549.899414 175.491959 95.213608, 8487.041016 149.288834 170.127670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -654.576416 921.018311, 9448.835938 -680.779541 995.928528, 9385.977539 -654.576416 1070.842529] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 -654.576416 170.127670, 8549.899414 -680.779541 95.213608, 8612.757813 -654.576416 20.303453] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8612.757813 289.347412 20.303453, 8658.772461 360.934326 -34.536377, 8675.616211 458.724365 -54.606670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8612.757813 -189.466049 20.303453, 8658.772461 -117.878174 -34.536377, 8675.616211 -20.088139 -54.606670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8612.757813 -654.576416 20.303453, 8658.772461 -582.988525 -34.536377, 8675.616211 -485.198517 -54.606670] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8487.041016 -315.822510 170.127670, 8441.021484 -387.409424 224.963623, 8424.182617 -485.198517 245.037842] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -315.822510 921.018311, 9557.709961 -387.409424 866.178467, 9574.553711 -485.198517 846.108154] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[8675.616211 -485.198517 -54.606670, 8658.772461 -387.409424 -34.536377, 8612.757813 -315.822510 20.303453] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9511.694336 -189.466049 921.018311, 9448.835938 -215.668213 995.928528, 9385.977539 -189.466049 1070.842529] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9323.119141 458.724365 1145.752686, 9339.962891 556.515381 1125.678467, 9385.977539 628.102295 1070.842529] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[9385.977539 289.347412 1070.842529, 9339.962891 360.934326 1125.678467, 9323.119141 458.724365 1145.752686] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13727.660156 -5100.964355 1927.839111, 13828.978516 -5100.964355 1927.839111, 13828.314453 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13726.996094 -5100.964355 268.133423, 13727.660156 -5100.964355 1927.839111, 13828.314453 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13828.314453 -5100.964355 268.133423, 13828.978516 -5100.964355 1927.839111, 13853.655273 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13828.978516 -5100.964355 1927.839111, 13854.318359 -5100.964355 1927.839111, 13853.655273 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13702.321289 -5100.964355 1927.839111, 13727.660156 -5100.964355 1927.839111, 13726.996094 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13701.659180 -5100.964355 268.133423, 13702.321289 -5100.964355 1927.839111, 13726.996094 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13853.655273 -5100.964355 268.133423, 13854.318359 -5100.964355 1927.839111, 13877.657227 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13678.319336 -5100.964355 1927.839111, 13702.321289 -5100.964355 1927.839111, 13701.659180 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13677.657227 -5100.964355 268.133423, 13678.319336 -5100.964355 1927.839111, 13701.659180 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
+Separator
+{
+	Coordinate3 { point[13854.318359 -5100.964355 1927.839111, 13878.319336 -5100.964355 1927.839111, 13877.657227 -5100.964355 268.133423] }
+	MaterialBinding { value PER_FACE }
+	Material { diffuseColor[0.000000 1.000000 1.000000] transparency[0.000000] }
+	IndexedFaceSet { coordIndex[0,1,2,-1] }
+}
