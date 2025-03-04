@@ -5,6 +5,15 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 # Currently available:
 
+### Halo 1
+
+**Level:** Scarab Arena
+
+**Vehicle:** H2 Scarab
+
+**Vehicle:** H2 Pelican
+
+
 ### Halo 2
 
 **Vehicle:** Brute Ghost
