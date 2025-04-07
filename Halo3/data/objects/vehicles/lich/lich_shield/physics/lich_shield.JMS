@@ -1,0 +1,225 @@
+;### VERSION ###
+8213
+;	<8197-8213>
+
+;### NODES ###
+1
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+shield
+-1
+0.7071067691	0.0000000000	0.0000000000	0.7071067691
+0.0000000000	0.0000000000	0.0000000000
+
+;### MATERIALS ###
+1
+;	<name>
+;	<(Material Slot Index) LOD Permutation Region>
+
+;MATERIAL 0
+shield
+(4) default shield
+
+;### MARKERS ###
+0
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### INSTANCE XREF PATHS ###
+0
+;	<path to asset file>
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+0
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<index>
+;		<weight>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;	<vertex color <r,g,b>>
+
+;### TRIANGLES ###
+0
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+1
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;CONVEX 0
+reactor_shield
+-1
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000000000	0.0000000000
+35
+-141.0085601807	1.8502434492	345.5957946777
+-134.9570312500	14.0282993317	346.7662048340
+-134.9421234131	-5.2920660973	343.7303466797
+-147.2043151855	-7.0597634315	353.2075805664
+-142.1738891602	-13.6003894806	350.3074951172
+-134.9975280762	-15.4001522064	347.9018859863
+-142.0370025635	-21.4130458832	356.8620300293
+-135.3452148438	-26.5257797241	361.0702514648
+-134.8624114990	-29.1648578644	374.0244445801
+-144.9340667725	-23.4690895081	373.4504394531
+-149.6938171387	-15.0099220276	368.7341613770
+-150.0941925049	-10.1643610001	382.1487426758
+-144.8871002197	-20.7456073761	383.9359741211
+-142.0422668457	-18.2916564941	390.9709472656
+-144.5255889893	-10.6048641205	394.2128295898
+-134.9515228271	-24.0754356384	388.5808410645
+-135.3043823242	-16.8577747345	396.2917480469
+-143.7207183838	3.4503345490	397.2940063477
+-135.5163269043	-4.5285072327	401.6115722656
+-134.9123382568	3.9753687382	401.6438598633
+-134.9334564209	13.7822008133	398.1148986816
+-142.2625427246	17.8037395477	391.2849121094
+-134.9472961426	21.8758277893	391.2079467773
+-139.7221374512	25.8716697693	380.8787536621
+-134.8298950195	28.0989933014	377.1049804688
+-138.5519561768	27.1085224152	367.8040771484
+-143.6494293213	23.7011013031	367.2073974609
+-135.2870330811	25.1963367462	358.5980834961
+-142.2920989990	14.6792860031	351.2621154785
+-147.4486999512	11.1261777878	355.7025146484
+-150.1054077148	-4.7772173882	359.0545654297
+-150.1737976074	8.5450887680	362.0414733887
+-149.2633819580	16.6404476166	375.1026611328
+-147.0899353027	13.6557188034	387.5714111328
+-151.0369873047	0.6434492469	385.3764648438
+
+;### RAGDOLLS ###
+0
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle>
+
+;### CAR WHEEL ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT TO POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>
