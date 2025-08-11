@@ -1,0 +1,1131 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default','exterior'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0,1"
+        ]
+    },
+    "nodes_properties": {
+        "mammoth_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "3c33cd19-8d87-ac52-6dde-a641206f5eb1",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "b_pedestal": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_cog": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "936634661",
+            "bungie_frame_ID2": "-1896854034",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1027904987",
+            "bungie_frame_ID2": "1345947381",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1203314092",
+            "bungie_frame_ID2": "-1370019630",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "907117332",
+            "bungie_frame_ID2": "1134044997",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1015480302",
+            "bungie_frame_ID2": "-1655575458",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1182496669",
+            "bungie_frame_ID2": "1665090169",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_sus_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "878132555",
+            "bungie_frame_ID2": "-816734465",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1013008321",
+            "bungie_frame_ID2": "-796123242",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1170079589",
+            "bungie_frame_ID2": "-1906313478",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_sus_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "863544774",
+            "bungie_frame_ID2": "-9666716",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1005272053",
+            "bungie_frame_ID2": "28142163",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1149211988",
+            "bungie_frame_ID2": "1127717969",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_sus_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "990675930",
+            "bungie_frame_ID2": "1282447771",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1144900038",
+            "bungie_frame_ID2": "-269026365",
+            "bungie_object_animates": "1"
+        },
+        "b_front_flap_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "b_front_flap_null": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "986638831",
+            "bungie_frame_ID2": "-2129071308",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_sus_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "982300025",
+            "bungie_frame_ID2": "769234082",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1129319901",
+            "bungie_frame_ID2": "1930067406",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "975786436",
+            "bungie_frame_ID2": "-859504388",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1092006790",
+            "bungie_frame_ID2": "-3947400",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_sus_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "956850455",
+            "bungie_frame_ID2": "1819822003",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1087691187",
+            "bungie_frame_ID2": "850112223",
+            "bungie_object_animates": "1"
+        },
+        "b_rear_bay_door": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_sus_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "952765218",
+            "bungie_frame_ID2": "-1592775396",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1034104312",
+            "bungie_frame_ID2": "501511485",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_pitch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_yaw": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "bigboy!.148": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5b08b648-3075-9e03-5289-22c163000812",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "exterior"
+        },
+        "bigboy!.147": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7c9d8e79-c346-7e6e-196a-a49d63aea8db",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.146": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "03e66026-b097-46c1-49f4-d889c5a1707d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.145": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c0c00104-9a08-6407-016a-1807d885d442",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.041": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c2068ebc-9909-b0a9-458d-a8ce124c1726",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.144": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "61d6dd44-ee30-ea5d-774f-e71244154b6a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.143": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "8c5f8ada-d27d-4f19-b87b-e81abf321248",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.142": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "deaf17d8-01f3-2418-7dd8-0cfc6036843d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.141": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "e9d8100d-dbe7-82d3-29f3-38c4d0d6e22c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.140": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "45e58b28-6fa8-3069-3ec3-c14efcac96bd",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.139": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "211623dc-9479-6c84-e373-5b9af4424807",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.138": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "896e6874-6fbe-dead-44d8-18d3412273e7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.137": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "22246985-3461-4887-58a0-055090ed101c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.136": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "44a1ea26-95c9-dfdb-cb87-f0c68e002b36",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.135": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3267f0d3-f8e1-0db8-7226-fcb76fe703bf",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.134": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7e360180-0d6f-1c0f-eb27-98be738c2585",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.133": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "78caf588-5780-3d4a-c5d2-40e38f39487d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.132": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "60f5ce90-28d5-0fa6-c362-fcf5e68c6c9e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.131": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a91b3118-1ada-2539-37d4-db14e1d51c79",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.130": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9ee4baac-844e-17cd-05e3-3a6f1cd3504d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.129": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d3f4ee2d-aef5-6fd7-2981-73d22d02345c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.128": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "8a80cc63-62f8-30ea-d354-af62865ed2c1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.127": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3e826871-7fa7-6428-d270-11a647d9a71e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.126": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "77c6bcea-6365-b1f7-9649-aa4224a2b001",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.125": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "271bd1d4-1d0b-e8a2-0ba6-83acd95f277e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.124": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "87023c1b-9f13-2917-8828-e3be127a22f8",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.123": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "cc9e1904-2992-0ea8-3028-2afb50dc6771",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.122": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0e7a045b-b506-b74f-53ee-78bac8d439ae",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.121": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "52c760ad-70a0-ea72-b43c-9f414261baad",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.120": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d5715710-56a6-4390-ccdd-419a59ac0b33",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.119": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3f36aa2a-4da2-b55c-ba4a-293276b15352",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.118": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "387480f6-cd25-9e50-5480-7ca094357865",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.117": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "e3fb814e-2239-77fd-47b4-948e189715d9",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.116": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9ad3224a-b3dd-590b-db20-d49781599fd3",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.115": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "bce98077-689a-c585-5511-45eb3d7d7fa7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.114": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f5b0eab4-c668-e04a-008e-94f607f2ddf2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.113": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "fa99c1da-bbe6-ee83-0b71-20b26edfc7c8",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.112": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "da44af0c-0a9f-fc1a-1011-a8ae10a4326f",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.111": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6f5ca497-6971-322f-5f9e-a0d789fcf99c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.110": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "22a67a1d-9eb5-5ef5-7d68-cdcd3fd24966",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.109": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "925ce47e-7e64-8098-3108-bb25a105f1c2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.108": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "b118cf20-bb67-9358-0c4e-e279d4506432",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.107": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "592f2f18-77f6-8e4c-0ed2-d807d92e74b8",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.106": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "1cc5579f-2a1e-a01d-9a5e-f2679d21ea9a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.105": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "e9886c74-472f-e53c-4a8b-1ccc3dd25316",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.104": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "63b64708-de16-c6fb-365a-c4e39b8706b2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.103": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "e01c2636-1701-7678-f051-c9f16dc78a2a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.102": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "868428bd-78d5-2180-f624-f95dd95a2cf5",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.101": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "78fc8986-fe51-d129-a0c4-b942d3b2f600",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.100": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "2ddd955f-1b35-e2a3-162d-88dabcc04674",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.099": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "15f5a836-442c-fae9-167c-ee0a898802d3",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.098": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "1e31fb08-921f-a6c0-9da5-2dd2c05bf4d7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.097": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a3940b77-8f7b-dd46-8481-0df3de51c54d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.096": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "8102b603-ead5-63a3-99ed-fcd274010183",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.095": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "bec6e002-ba7f-847c-391d-dabb897c5f0a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.094": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "b9d0594a-d392-70dc-0cb8-761795a8d138",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.093": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "054a0b9f-a8b3-6616-ae4a-8f949dad8dd4",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.092": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "21e716a2-445a-76c2-5906-36006f4668c9",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.091": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "60084062-8f4a-575e-986e-3d06cdad0d40",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.090": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f6cb0ace-741a-f890-d4ee-e4da0c68aa5c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.089": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "64b98f81-2a4d-625e-ac6b-d9ff80e212b1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.088": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "b1139783-c2f0-06b3-90a8-d4279579281f",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.087": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9afd1b77-79e0-39b3-81ae-b3809fc7114f",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.086": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "df8a053c-2f5d-d7a8-c585-c99f28504af0",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.085": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "4538af68-1318-7d09-9395-21d7b3fa48bb",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.084": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "2790dbbe-78b9-5fef-6863-c3d1ae4da3a7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.083": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "72beb8fb-f4fc-9b50-16ff-b0c342da1a4a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.082": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "ffc223a9-8c11-d420-6751-56448674922e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.081": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9792e748-7aa7-ef33-8efc-df259e2025cf",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.080": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "03aa1ea1-96dc-d6a8-9b0d-1807a4a6b709",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.079": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "8318c631-99ea-d4f2-a8e9-02f9f6b500b4",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.078": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "4fd9fd0c-2ba1-a384-31d2-466e1bede480",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.077": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "fcd938b0-1738-48ca-2d69-5e41d4b7d43d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.076": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6dabd035-26b6-31ae-5491-62f82a6ddc5b",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.075": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "1eff8451-2cdd-c710-79bf-0ef7047d5b64",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.074": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "af05025e-62c1-ddd6-6fdd-aef1690aebc2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.073": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "fcd85f48-e82c-251c-78ba-cc90089f8682",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.072": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "cc6e207e-06ca-2a79-e110-2f13b1703a51",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.071": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "82aeac99-af3a-8652-0e3f-819ff6565924",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.070": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c3a90fe6-cb0e-3096-7592-bfca0539c973",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.069": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0f3c02c9-c9c5-8467-dc1c-1c0d98e7da0a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.068": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "ac169929-e59f-e327-fa14-4660c6f81b6a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.067": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "03ffbfec-f00a-2a83-b2e3-658cb9c19bb7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.066": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "cc1fd415-44b6-7534-74c8-facb91e243d5",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.065": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "ec3b1f23-79d1-e7bf-7a04-11c1df7ff065",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.064": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d2bd8dd3-b968-34eb-42d0-aa34bc9664cb",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.063": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "e23f4adb-a44e-b498-7b7b-30ba2fafe17c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.062": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "b7b4790c-3698-aeb2-a38e-f910cf544e87",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.061": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0683b874-4f1a-8cbf-5fca-9cb19afb7ff0",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.060": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a0be23ce-a952-53c3-a9f3-c03024bf2e33",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.059": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "57cbc6b6-a1a3-8afb-4934-446133938ad1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.058": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f53289cd-868e-9448-5ba8-1ea3dd2fe3b6",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.057": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "dbe466ae-65f9-94e8-706f-ea329687efbb",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.056": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "646d2c91-2127-780f-8403-2a8c5a1a961b",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.055": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "66fc23bf-fa04-8357-4eb7-15f41f2cdcd0",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.054": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3d4bf9fb-0db5-a766-175e-1a4e3d488e71",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.053": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "016eca1f-c586-fbd6-15bc-04e9971b3df1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.052": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9220a72c-b808-2d1e-4cd1-5823757b48eb",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.051": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "46dd78dc-f213-c253-2462-2bf93618f7a8",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.050": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a40c3973-aa6d-819d-2d56-c0c06870c9c2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.049": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3f1837f4-9fa6-023b-3b9b-7d0699ac31d2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.048": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "24f11809-03a1-4f6e-0bc1-07071b2212c4",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.047": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0afc7086-b18a-4c3e-9ab7-9b4d09d563bb",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.046": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "26ad206c-adfd-1990-f0cf-8dfe1dd76c70",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.045": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "83c94bfa-24eb-2921-75ce-55067ec605c9",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.044": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "04d3a4bd-dd1d-6918-9993-a4d01c32080b",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.043": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a2017e0b-d781-5bb4-f7fd-eff9e845ae15",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.042": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "458e893f-2619-0788-29d2-8ce30df2b408",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.040": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "429ef00b-b887-37b5-a3e9-93156de20775",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.039": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9ecc42a5-5d27-c4d0-b0e3-c195b11f8c91",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.038": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5fbf7600-c047-a0f2-8a2d-0c6a3937d9cd",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.037": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "becf17d8-2a94-0689-d22b-3f0465b61bd4",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.036": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f6f090e7-556a-91d6-76b0-0166ac5152c6",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.035": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d0c4f457-5b45-6f43-9d28-a744a3fbe9fc",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.034": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f0fecdde-a6f7-7c87-82a1-45dae87a548c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.033": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "8e0d064b-48f1-19fb-db62-470f584dd5a8",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.032": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a747a5c2-aba7-f0fd-13bb-cebc9a07fc79",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.031": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a25a9a15-5d91-c6a0-bf34-e6010123ffc2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.030": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9a588444-f813-6b65-b983-fa64fd7b90d1",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.029": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "402979b0-3246-68dc-9112-7dc5bd3d0c53",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.028": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "187dc1c7-c208-e25e-76de-dd0860c6894b",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.027": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7f2a8bd3-020c-e728-2520-0a701dfd2f5f",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.026": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d8e2e53f-f1fa-25a5-33a5-0ea64121a89c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.025": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "ad8ddae7-d0f7-7367-3dd5-28bd889245f8",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.024": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "36446db7-e00a-71d9-ba37-f4ff1554689e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.023": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "91f12167-557a-0f63-4378-a489a98b8233",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.022": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "7b51363c-86c3-b1db-7b28-dcd198eebcfa",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.021": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "60ab4b9a-37d0-7f20-2e46-5bcc106ba5e2",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.020": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0d987809-bd2e-f6d6-f9b8-ce59a512a4f4",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.019": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c175cf89-c465-ab35-a5bf-3a5de5f47623",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.018": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "9324f412-79b2-88c3-d63f-25f3c1524ee7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.017": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "3c44472b-710b-9062-bb81-934513ca3ed6",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.016": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5f1d3422-7c3e-294d-2136-84b94a43aedf",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.015": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "bf1d0e6b-d849-4045-709f-fc4d74adf5ea",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.014": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "d2c8ad83-e196-e529-5f5f-806ac122cba7",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.013": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c44f81b1-175f-0ce6-8b21-e9bcafaaf1a9",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.012": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "53f23aa4-92c2-68dc-0753-fb6318999cc8",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.011": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "871f9ec1-4c5d-74fd-4c2e-04ef2d52c007",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.010": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a8ee08ec-d09b-3bff-fe98-059817982b94",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.009": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "2cad8639-065e-009e-45e1-8a0ed19d0b25",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.008": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "71ecba7e-5115-6bdc-2fd3-e6490ea243bf",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.007": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "fc8af61b-217f-c264-f744-1594290bdff0",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.006": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "dd6ea595-9ddc-e30c-5896-c303cd72c7bd",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.005": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "dad1eb7c-1df1-d1c1-cbe4-fb915f46d56a",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.004": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c25257df-0ad8-4687-3fe7-253c8f59f382",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.003": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5106d214-90e2-7431-648e-5d207c16edb6",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.002": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "97765567-3172-39cd-77cc-3ca0de6a8d23",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!.001": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "01d6368d-dc80-14a5-4166-77987f9b434e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        },
+        "bigboy!": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "aa2b00f9-bdc1-be99-955d-c162bca07306",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_physics",
+            "bungie_face_region": "default"
+        }
+    },
+    "material_properties": {
+        "Physics": {
+            "bungie_shader_path": "override",
+            "bungie_shader_type": "override"
+        }
+    }
+}

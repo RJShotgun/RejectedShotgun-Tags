@@ -1,0 +1,55 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "door_rear_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "38f6e626-c300-2162-ad39-09d116a6e138",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "bay_parent": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_rear_bay_door": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        },
+        "b_dummy": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        },
+        "constraint": {
+            "bungie_physics_constraint_child": "b_rear_bay_door",
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e6fee298-9635-1238-a012-18cbb92c592e",
+            "bungie_marker_type": "_connected_geometry_marker_type_physics_hinge_constraint",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "constraint",
+            "bungie_physics_constraint_parent": "bay_parent",
+            "bungie_physics_constraint_use_limits": "0"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}

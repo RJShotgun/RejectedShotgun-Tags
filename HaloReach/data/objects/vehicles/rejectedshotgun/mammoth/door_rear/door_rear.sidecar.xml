@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2023-10-02 00:21:47</Created>
+    <By>Drake</By>
+    <SourceBlend>objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="door_rear" Type="model">
+    <OutputTagCollection>
+      <OutputTag Type="model">objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear</OutputTag>
+      <OutputTag Type="vehicle">objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="door_rear" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\export\models\door_rear_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="physics_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\export\models\door_rear_physics.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="physics_model">objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="collision_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\export\models\door_rear_collision.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="collision_model">objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\export\models\door_rear_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="markers">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\export\models\door_rear_markers.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="model_animation_graph">
+        <ContentNetwork Name="any idle" Type="Base" ModelAnimationMovementData="None">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear.blend</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\door_rear\export\animations\any idle.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="frame_event_list">objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear</OutputTag>
+          <OutputTag Type="model_animation_graph">objects\vehicles\rejectedshotgun\mammoth\door_rear\door_rear</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>

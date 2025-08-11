@@ -1,0 +1,141 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "door_rear_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "38f6e626-c300-2162-ad39-09d116a6e138",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "bay_parent": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_rear_bay_door": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        },
+        "b_dummy": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "door_rear:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "75e4c700-99b1-750c-3a88-6d94dce524a9",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "default"
+        }
+    },
+    "material_properties": {
+        "lhsigns.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lhsigns",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01gun.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01gun",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01tank.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01tank",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01yel.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01yel",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01exterior.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01exterior",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02yel.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate02yel",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02exterior.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\lh_techplate02exterior",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02exteriordk.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\lh_techplate02exteriordk",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate03.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate03",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_base.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_base",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_basedark.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_basedark",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_base_scuff.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_base_scuff",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_basedk_scuff.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_basedk_scuff",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_lights.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_lights",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_glass2 opaque": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\opaque",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_logos_1.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_logos_1",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_pannels.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_pannels",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_tire.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_tire",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_wheelwell.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_wheelwell",
+            "bungie_shader_type": "shader"
+        },
+        "storm_warthog_exterior_maj.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_warthog_exterior_maj",
+            "bungie_shader_type": "shader"
+        },
+        "storm_warthog_interior.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_warthog_interior",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

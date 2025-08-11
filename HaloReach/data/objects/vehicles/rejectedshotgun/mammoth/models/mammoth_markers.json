@@ -1,0 +1,1344 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "mammoth_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "3c33cd19-8d87-ac52-6dde-a641206f5eb1",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "b_pedestal": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_cog": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "936634661",
+            "bungie_frame_ID2": "-1896854034",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1027904987",
+            "bungie_frame_ID2": "1345947381",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1203314092",
+            "bungie_frame_ID2": "-1370019630",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "907117332",
+            "bungie_frame_ID2": "1134044997",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1015480302",
+            "bungie_frame_ID2": "-1655575458",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1182496669",
+            "bungie_frame_ID2": "1665090169",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_sus_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "878132555",
+            "bungie_frame_ID2": "-816734465",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1013008321",
+            "bungie_frame_ID2": "-796123242",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1170079589",
+            "bungie_frame_ID2": "-1906313478",
+            "bungie_object_animates": "1"
+        },
+        "anim_fix.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "bf0fbb27-c9ea-e0f6-91dc-1cbd018acb0a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "anim_fix"
+        },
+        "b_l_1_sus_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "863544774",
+            "bungie_frame_ID2": "-9666716",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1005272053",
+            "bungie_frame_ID2": "28142163",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1149211988",
+            "bungie_frame_ID2": "1127717969",
+            "bungie_object_animates": "1"
+        },
+        "anim_fix.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b8d1f9fa-b370-018b-3ae0-0b0a02055cc7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "anim_fix"
+        },
+        "b_r_3_sus_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "990675930",
+            "bungie_frame_ID2": "1282447771",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1144900038",
+            "bungie_frame_ID2": "-269026365",
+            "bungie_object_animates": "1"
+        },
+        "anim_fix": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "199ec227-621f-ddef-5a20-ec935dfb8c20",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "anim_fix"
+        },
+        "tire_tread_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "172b8433-2d07-dde8-5b11-619d38a2f38d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "tire_tread_right"
+        },
+        "tire_tread_right.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "47cb6b76-10b4-00bb-012b-104ac86a0334",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "tire_tread_right"
+        },
+        "b_front_flap_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "b_front_flap_null": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "986638831",
+            "bungie_frame_ID2": "-2129071308",
+            "bungie_object_animates": "1"
+        },
+        "door_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "4481711e-5ddb-4963-230c-33a126569667",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "door_front"
+        },
+        "b_l_3_sus_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "982300025",
+            "bungie_frame_ID2": "769234082",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1129319901",
+            "bungie_frame_ID2": "1930067406",
+            "bungie_object_animates": "1"
+        },
+        "anim_fix.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "00f3f550-85df-7a3e-2297-cbd7174dce05",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "anim_fix"
+        },
+        "tire_tread_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "35122a59-4a02-fe6e-28e1-89d7f53191f6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "tire_tread_left"
+        },
+        "tire_tread_left.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "00c2ded8-d099-66a2-9eb7-d7fcbd1298a0",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "tire_tread_left"
+        },
+        "b_l_rear_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "975786436",
+            "bungie_frame_ID2": "-859504388",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1092006790",
+            "bungie_frame_ID2": "-3947400",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_sus_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "956850455",
+            "bungie_frame_ID2": "1819822003",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1087691187",
+            "bungie_frame_ID2": "850112223",
+            "bungie_object_animates": "1"
+        },
+        "anim_fix.004": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c59de65d-177c-389c-4ffa-9107d18473e8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "anim_fix"
+        },
+        "b_rear_bay_door": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "door_rear": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "181ae58a-b043-2bb6-c3cd-51e95c8d26e3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "door_rear"
+        },
+        "b_r_2_sus_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "952765218",
+            "bungie_frame_ID2": "-1592775396",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1034104312",
+            "bungie_frame_ID2": "501511485",
+            "bungie_object_animates": "1"
+        },
+        "anim_fix.005": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "3771911b-1c0d-0dfe-7394-1201484f205e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "anim_fix"
+        },
+        "turret_main_gun": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "cfdde2a9-bb1f-3592-ef82-ff227b787af2",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "turret_main_gun"
+        },
+        "turret_front_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "abf14217-5e17-8f7d-f1f6-41845a644cc3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "turret_front_right"
+        },
+        "turret_front_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "bef6c8f9-7fad-c791-1256-9b191f26b13a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "turret_front_left"
+        },
+        "tortoise_d": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "64cc5b1e-3247-0df4-f0e0-81c40446c485",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "tortoise_d"
+        },
+        "spotlight_02": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b28f7d72-c7e1-6b60-b715-c3a06902f38b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "spotlight_02"
+        },
+        "spotlight_01": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1239dca5-7b68-205b-2161-2523020a244f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "spotlight_01"
+        },
+        "lasky_second_position": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1bb8c3d1-b8d2-127d-f763-238bbe67f91f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "lasky_second_position"
+        },
+        "lasky_first_position": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "59092e4a-b64b-bed6-964d-cfea036f5e7c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "lasky_first_position"
+        },
+        "hog_rear_hang_2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1ca76c06-ac10-c14b-f082-89153659b972",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hog_rear_hang_2"
+        },
+        "hog_rear_hang": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0dbb5f3f-43c4-4b06-2426-f516bf34984d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hog_rear_hang"
+        },
+        "hog_front_hang_2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "60def286-5022-ca59-a5b7-9fdb3a63620b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hog_front_hang_2"
+        },
+        "hog_front_hang": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "27a636da-8532-3148-3f6b-8cf127a8b829",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "hog_front_hang"
+        },
+        "fx_tire_mid_rt_top": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f8d12dad-ece4-f3c5-1fb2-a4e526fd4e7d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_mid_rt_top"
+        },
+        "fx_tire_mid_rt_botm": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "fcd3a68f-9bba-203d-f3c9-6b46bb81b2fa",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_mid_rt_botm"
+        },
+        "fx_tire_mid_lf_top": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "7700e5b2-9df9-9334-3744-f4cd8748fcfc",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_mid_lf_top"
+        },
+        "fx_tire_mid_lf_botm": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "7b18302a-36d0-3cab-b772-bcbcc157e2fd",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_mid_lf_botm"
+        },
+        "fx_tire_fr_rt_top": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ff575ba3-f9f7-af92-c46a-7db60d181360",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_fr_rt_top"
+        },
+        "fx_tire_fr_rt_botm": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8005d386-e585-c4dc-2f42-4170d1a7ab11",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_fr_rt_botm"
+        },
+        "fx_tire_fr_lf_top": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "daca37f6-9a91-4ffc-79b6-50975b7eaf2d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_fr_lf_top"
+        },
+        "fx_tire_fr_lf_botm": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e13d00ed-965a-3e55-86b8-972368b7a349",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_fr_lf_botm"
+        },
+        "fx_tire_bk_rt_top": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "481361e1-0f51-d806-d9b2-c7e0c4c72c09",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_bk_rt_top"
+        },
+        "fx_tire_bk_rt_botm": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "288d6ae4-0aa9-5254-07b1-3458bc2a04ac",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_bk_rt_botm"
+        },
+        "fx_tire_bk_lf_top": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b662927f-3841-542a-0cfc-6a0eb796dec7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_bk_lf_top"
+        },
+        "fx_tire_bk_lf_botm": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8008cd79-301f-1ae1-82cd-27a4f062c178",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_tire_bk_lf_botm"
+        },
+        "fx_rear_bay_door": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "a4ba42aa-80a0-c2b3-bd3f-840a41fef696",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_rear_bay_door"
+        },
+        "fx_monitor_top_04": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d4bce378-daf3-f1c1-fadb-e9c2de7ac856",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_top_04"
+        },
+        "fx_monitor_top_03": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "bb521492-ad45-21e6-2201-97966a0ddf82",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_top_03"
+        },
+        "fx_monitor_top_02": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e4e77536-e426-f60d-0720-d25dc1b8c40e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_top_02"
+        },
+        "fx_monitor_top_01": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ef28a7d4-b452-019c-55ba-76cddbee2a80",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_top_01"
+        },
+        "fx_monitor_main_16": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "df3f0e40-cbbe-c326-20af-0f8a7c9f783d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_16"
+        },
+        "fx_monitor_main_15": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c6caf957-ba18-1ac9-a96a-4561ade1a6dd",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_15"
+        },
+        "fx_monitor_main_14": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b67be881-8c6b-8235-5f12-269102bc722e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_14"
+        },
+        "fx_monitor_main_13": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e433013d-1f0f-4973-0621-0480aa99e52c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_13"
+        },
+        "fx_monitor_main_12": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9cf2d3ce-dc33-4639-3ad5-e5494a5cda7d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_12"
+        },
+        "fx_monitor_main_11": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "3c8d01a4-ff1f-ef2d-7605-8be6bddbae35",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_11"
+        },
+        "fx_monitor_main_10": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "313c98de-9b42-c4eb-828b-2dd74bccec61",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_10"
+        },
+        "fx_monitor_main_09": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e7bdbfb3-d283-60a6-d758-e51c63d0e880",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_09"
+        },
+        "fx_monitor_main_08": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ae3e99a1-b0a7-4a2b-b188-00a463c65824",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_08"
+        },
+        "fx_monitor_main_07": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c44965bc-729c-e5ea-d777-94c5734f3906",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_07"
+        },
+        "fx_monitor_main_06": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "454f9d16-40c3-4f4b-066a-fe5a09f9edaf",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_06"
+        },
+        "fx_monitor_main_05": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "afc8716f-f238-0d2f-e59d-a10809b89ccc",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_05"
+        },
+        "fx_monitor_main_04": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "3861fd01-c888-7885-2044-5246272d73e8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_04"
+        },
+        "fx_monitor_main_03": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "90523356-27d3-eeee-f891-4d2fe96a89b5",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_03"
+        },
+        "fx_monitor_main_02": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c3e74470-d216-393b-e45b-e1324e050409",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_02"
+        },
+        "fx_monitor_main_01": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "07bb5241-f123-b1db-610e-1bc1c7e4ece8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_main_01"
+        },
+        "fx_monitor_botm_05": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "bef0b5a1-c5ef-5804-8067-203940ab50d6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_botm_05"
+        },
+        "fx_monitor_botm_04": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "946e5293-dc98-a518-f561-e8739500344e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_botm_04"
+        },
+        "fx_monitor_botm_03": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "3491d284-cfe1-7636-2360-d5d7d94b62a5",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_botm_03"
+        },
+        "fx_monitor_botm_02": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "a76a15f5-4c27-574b-32c7-f38177a5dc7f",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_botm_02"
+        },
+        "fx_monitor_botm_01": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "750002cf-9dab-ceb2-f604-ed5691cfa239",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_monitor_botm_01"
+        },
+        "fx_led_main_04": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "493a2c06-75a6-dbe5-9c9f-3967dd0d88c8",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_led_main_04"
+        },
+        "fx_led_main_03": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "945e66ea-d956-315b-a7a2-359f004df752",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_led_main_03"
+        },
+        "fx_led_main_02": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "dda9a227-8942-3a86-44e4-29a1da3621c2",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_led_main_02"
+        },
+        "fx_led_main_01": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "343200b5-cae5-b6e0-2ecc-fc5c753d22b0",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_led_main_01"
+        },
+        "fx_headlt_side_rt02": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "eac260cc-da40-cbe0-90c5-63bc1e165256",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_headlt_side_rt02"
+        },
+        "fx_headlt_side_rt01": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "03b60be6-4c2f-8dde-d995-82a3ebeb8e12",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_headlt_side_rt01"
+        },
+        "fx_headlt_side_lf02": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "64c400d8-8959-a004-e716-4be24bd9719a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_headlt_side_lf02"
+        },
+        "fx_headlt_side_lf01": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "479ddb55-1f80-27a3-5fa4-56eb733fe456",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_headlt_side_lf01"
+        },
+        "fx_headlt_main_rt": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c3f93564-c95d-1280-334f-16064d6db9b5",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_headlt_main_rt"
+        },
+        "fx_headlt_main_lf": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ef3bc505-504d-773c-5c2b-d3d5fa159ef3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_headlt_main_lf"
+        },
+        "fx_front_bay_door": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d2cd1625-cd35-dd6d-5010-66d53baf1caf",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_front_bay_door"
+        },
+        "fx_exhaust_main_rt": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6464f5b3-8ec6-3606-8550-e1b36746b3ca",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_exhaust_main_rt"
+        },
+        "fx_exhaust_main_lf": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "4902c77f-e8b5-2d64-ce19-104d5137ced9",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_exhaust_main_lf"
+        },
+        "fx_damage_6": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "4091fe86-4a88-9359-0968-5758209f0420",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_6"
+        },
+        "fx_damage_6.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "bdea1a37-3f73-3e92-4457-239d01ade75b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_6"
+        },
+        "fx_damage_5": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e6eadf71-38f7-60d7-b385-39e3a9fa06dd",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_5"
+        },
+        "fx_damage_5.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ff6ac28d-d4b5-9e9b-0196-29dfe334ef1a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_5"
+        },
+        "fx_damage_4": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "18227789-afb6-0898-89d4-5ead3e1c6ff7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_4"
+        },
+        "fx_damage_3": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5932a6b2-a4ed-6727-85a1-b2b7695b2308",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_3"
+        },
+        "fx_damage_3.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "deddd283-c0cc-d16e-c7a0-c17eba25f24c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_3"
+        },
+        "fx_damage_2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9b907256-92f8-f027-cf51-963b33ac334b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_2"
+        },
+        "fx_damage_2.003": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9a5ff650-d8ef-a07c-913f-0e4475b6bdf7",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_2"
+        },
+        "fx_damage_2.002": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "568da605-905a-e2df-9725-f06d1f718d41",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_2"
+        },
+        "fx_damage_2.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b74c7e33-f76d-786e-c847-13345a843880",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_2"
+        },
+        "fx_damage_1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "85a25593-369f-b901-8b14-6e357f5db7ae",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_1"
+        },
+        "fx_damage_1.001": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c4962e76-8f48-7efe-676e-30dece5df122",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "fx_damage_1"
+        },
+        "friction_right_3": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0b013b95-95df-b335-b1b5-d8065a655747",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_right_3"
+        },
+        "friction_right_2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "17c0c4e3-abc9-3861-589e-9302e995175a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_right_2"
+        },
+        "friction_right_1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1052edba-2203-1ba4-4cbf-9e16db6e4a75",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_right_1"
+        },
+        "friction_mid_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "64b7d7b8-bf60-b53c-402a-17824df5ad5c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_mid_front"
+        },
+        "friction_mid_back": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "aed266a4-bcba-eb8a-e557-82ebfda14401",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_mid_back"
+        },
+        "friction_left_3": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8f86764c-e9f2-8256-4317-ba7bccddd0c2",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_left_3"
+        },
+        "friction_left_2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "9cd65cd5-24df-a3f5-2718-484cc29b7800",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_left_2"
+        },
+        "friction_left_1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c4613a80-a61b-6199-27ba-63be9c3e061a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "friction_left_1"
+        },
+        "engine": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6a33c619-7fc3-bd27-24e2-551a756e0883",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "engine"
+        },
+        "driver_enter": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "7c5fdd11-90b2-2579-ee88-4b9a70131b26",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "driver_enter"
+        },
+        "device_button_07": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6a5bbf14-452d-c44f-7f2d-9f27f27db1c4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "device_button_07"
+        },
+        "device_button_06": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ff07aaa9-b602-6551-8c66-2e1336cce7b3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "device_button_06"
+        },
+        "device_button_05": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "27d9c7bb-027d-385a-b070-1e0794dfc042",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "device_button_05"
+        },
+        "device_button_04": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "037370eb-48dd-e22e-c505-5d75ffccb062",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "device_button_04"
+        },
+        "device_button_03": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e8ef4787-79b9-e8e2-0223-7fd48832d3f4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "device_button_03"
+        },
+        "crate_mid_center_rail_gun": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "848e6be3-df28-e456-7527-254e0775b61d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_mid_center_rail_gun"
+        },
+        "crate_low_mid_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "2f9c860b-6a2a-058b-5d04-b8a3068751b4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_low_mid_right"
+        },
+        "crate_low_mid_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "32706e4d-a1b3-a915-1b16-adf8a4fbac56",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_low_mid_left"
+        },
+        "crate_low_back_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b16bf688-0b3b-ef63-5f6d-757d5fc6e5ca",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_low_back_right"
+        },
+        "crate_low_back_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "2aab6889-b3b8-a5cf-ba54-a99d448298b9",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_low_back_left"
+        },
+        "crate_bottom_jetpack_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ae5e2744-0cb5-f810-361d-1954ba185aec",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_bottom_jetpack_right"
+        },
+        "crate_bottom_jetpack_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0945a2a4-2778-6ece-0db0-42601b194cc4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_bottom_jetpack_left"
+        },
+        "crate_3fl_sniper_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "70692c48-109e-372d-d967-b30648c832d2",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_3fl_sniper_right"
+        },
+        "crate_3fl_sniper_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "99a807ad-8732-70b2-9c61-c47d316e4f84",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_3fl_sniper_left"
+        },
+        "crate_2fl_terminal_passenger": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "fbd85cf0-df5d-dccc-7e1d-ec9e1b333e0e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_terminal_passenger"
+        },
+        "crate_2fl_terminal_driver": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "bee69c07-a092-1345-673d-6cffe2bcdc07",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_terminal_driver"
+        },
+        "crate_2fl_mid_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6e8d0d41-9636-7c81-05b6-a970629be739",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_mid_front"
+        },
+        "crate_2fl_mid_back": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1b4c730c-1881-e103-ae16-7e4d839bd352",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_mid_back"
+        },
+        "crate_2fl_front_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "7a0931f8-5559-af11-22e0-005400c6cd0d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_front_right"
+        },
+        "crate_2fl_front_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f2894ce2-c6ee-e966-f78f-b1625d4f0d23",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_front_left"
+        },
+        "crate_2fl_chairs_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1510f91f-eef4-2a35-2c1e-4919e51448db",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_chairs_right"
+        },
+        "crate_2fl_chairs_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ebf03f13-3ebe-f25d-7d88-87b7c045fe6a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_2fl_chairs_left"
+        },
+        "crate_1fl_target_laser": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e86a559e-89df-7a55-b2ea-108d85486fe6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "crate_1fl_target_laser"
+        },
+        "audio_interior_rt_piston": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "773608d5-8d74-932a-123b-2fe19e19f708",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_rt_piston"
+        },
+        "audio_interior_rt_fan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "2ece10b5-a537-1fc7-6f71-2bc153d6922e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_rt_fan"
+        },
+        "audio_interior_loft_rt_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5df90dd7-6a27-32a4-fd12-86d870f0bd5c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_loft_rt_pipe"
+        },
+        "audio_interior_loft_lf_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "5598d454-9a1e-7726-54a3-93fb28368f33",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_loft_lf_pipe"
+        },
+        "audio_interior_loft": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "12561d63-6d68-b2fe-33dc-852310820b01",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_loft"
+        },
+        "audio_interior_lobbypipes": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1313a865-3ac8-7902-b0b3-951d89397169",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_lobbypipes"
+        },
+        "audio_interior_lf_piston": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d68142b4-bce2-fee6-5202-63b72a4254d2",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_lf_piston"
+        },
+        "audio_interior_lf_fan": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "33600eb8-7e05-1373-51fd-98260b394b63",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_lf_fan"
+        },
+        "audio_interior_keypad": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "51315732-99a9-72e0-4078-bd900856a9d6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_interior_keypad"
+        },
+        "audio_exterior_underside": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "aff13a06-2c4d-e63e-1ef9-40ad40f6f40d",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_underside"
+        },
+        "audio_exterior_rt_sus_3": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ea5c6da4-8629-5fb4-37f1-444658e4bcf0",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_rt_sus_3"
+        },
+        "audio_exterior_rt_sus_2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "073834b5-420c-fe8d-c5af-91f68d69a1ba",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_rt_sus_2"
+        },
+        "audio_exterior_rt_sus_1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "f4fe23e8-cbbd-7734-bec7-f24b59abe255",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_rt_sus_1"
+        },
+        "audio_exterior_lf_sus_3": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b8c6235d-f5b6-71d0-f406-1f02d0aca0af",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_lf_sus_3"
+        },
+        "audio_exterior_lf_sus_2": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "4652f84b-7e85-3b4a-70c1-6a32c019d520",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_lf_sus_2"
+        },
+        "audio_exterior_lf_sus_1": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c78d7d39-0b1a-4b4c-fe23-217f5567d33a",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_lf_sus_1"
+        },
+        "audio_exterior_deck_rt_mid_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "296ced16-a18b-401d-bac3-99421320eac3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_deck_rt_mid_pipe"
+        },
+        "audio_exterior_deck_rt_front_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "59c17835-28de-c8d7-c54b-9fc9872b775c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_deck_rt_front_pipe"
+        },
+        "audio_exterior_deck_rt_back_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "ba85ab87-5535-42f0-734b-c882e9b90748",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_deck_rt_back_pipe"
+        },
+        "audio_exterior_deck_lf_mid_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6fd6b9b7-b4da-4db9-4571-f15b3baf3e9e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_deck_lf_mid_pipe"
+        },
+        "audio_exterior_deck_lf_front_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "88a4961a-425c-e19e-1cda-fd6adfd0bbe4",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_deck_lf_front_pipe"
+        },
+        "audio_exterior_deck_lf_back_pipe": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e4104655-a260-2dda-200c-3b455116674b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_deck_lf_back_pipe"
+        },
+        "audio_exterior_deck": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "24b854ad-c14f-3da8-1c5c-86c49deb0c10",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_exterior_deck"
+        },
+        "audio_console_right_top_floor": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "accc5647-72d6-6c58-cfcc-257d9be99641",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_console_right_top_floor"
+        },
+        "audio_console_right_bottom_floor": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "539fdc10-719e-a28c-9cd8-30e5d10674e6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_console_right_bottom_floor"
+        },
+        "audio_console_left_top_floor": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "cfb7f82a-233c-2db6-3d0c-287c7ef433f6",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_console_left_top_floor"
+        },
+        "audio_console_left_bottom_floor": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "2a27c520-e629-776a-fd0b-3fc44897c5a3",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_console_left_bottom_floor"
+        },
+        "audio_console_back_top": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "e0973a98-ed17-e611-27f3-7f8987206b9c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_console_back_top"
+        },
+        "audio_center_front": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "8dbdce08-271e-d1cd-67e1-86f2f5ce74fd",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_center_front"
+        },
+        "audio_center_back": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "1bb59d80-4bf4-9277-87b3-4522fc7d5c2c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "audio_center_back"
+        },
+        "2fl_rear_terminal_side": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "c2d15a68-0cf4-1942-0f9d-35769242011e",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "2fl_rear_terminal_side"
+        },
+        "2fl_rear_terminal": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "0a0591c6-68ac-b4ac-aed8-2a23e0115c3b",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "2fl_rear_terminal"
+        },
+        "b_aim_pitch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_yaw": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        },
+        "wheel_mid_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "d7663359-93bf-623a-5c54-ab112592589c",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "wheel_mid_right"
+        },
+        "wheel_mid_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "b20e31c2-1616-d022-4790-4ce2d4c72311",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "wheel_mid_left"
+        },
+        "wheel_front_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "29df3636-8b40-bd3d-4f95-ec5e8a3cfdcf",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "wheel_front_right"
+        },
+        "wheel_front_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "6a2316af-8688-a3d1-51eb-3ad20803f0cf",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "wheel_front_left"
+        },
+        "wheel_back_right": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "cc516750-ee1f-44a9-2c1f-3c851af8ea17",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "wheel_back_right"
+        },
+        "wheel_back_left": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_object_ID": "220481a5-4281-e4e6-c86f-5b7c0f1ee887",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_all_regions": "1",
+            "bungie_marker_model_group": "wheel_back_left"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}

@@ -1,0 +1,570 @@
+{
+    "string_table": {
+        "connected_geometry_global_material_table_enum_names": [
+            "'default'"
+        ],
+        "connected_geometry_global_material_table_enum_values": [
+            "0"
+        ],
+        "connected_geometry_regions_table_enum_names": [
+            "'default','exterior','interior','lf_wheel','lmid_wheel','lr_wheel','rf_wheel','rmid_wheel','rr_wheel','suspension','bridge','glass'"
+        ],
+        "connected_geometry_regions_table_enum_values": [
+            "0,1,2,3,4,5,6,7,8,9,10,11"
+        ]
+    },
+    "nodes_properties": {
+        "mammoth_world": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "3c33cd19-8d87-ac52-6dde-a641206f5eb1",
+            "bungie_object_animates": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771"
+        },
+        "b_pedestal": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "b_cog": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "732036788",
+            "bungie_frame_ID2": "-1922552000",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1170079589",
+            "bungie_frame_ID2": "-1906313478",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1182496669",
+            "bungie_frame_ID2": "1665090169",
+            "bungie_object_animates": "1"
+        },
+        "b_fr_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1203314092",
+            "bungie_frame_ID2": "-1370019630",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1129319901",
+            "bungie_frame_ID2": "1930067406",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1144900038",
+            "bungie_frame_ID2": "-269026365",
+            "bungie_object_animates": "1"
+        },
+        "b_r_rear_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1149211988",
+            "bungie_frame_ID2": "1127717969",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_sus_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1034104312",
+            "bungie_frame_ID2": "501511485",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1087691187",
+            "bungie_frame_ID2": "850112223",
+            "bungie_object_animates": "1"
+        },
+        "b_l_2_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1092006790",
+            "bungie_frame_ID2": "-3947400",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_sus_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1013008321",
+            "bungie_frame_ID2": "-796123242",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1015480302",
+            "bungie_frame_ID2": "-1655575458",
+            "bungie_object_animates": "1"
+        },
+        "b_l_1_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1027904987",
+            "bungie_frame_ID2": "1345947381",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_sus_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "986638831",
+            "bungie_frame_ID2": "-2129071308",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "990675930",
+            "bungie_frame_ID2": "1282447771",
+            "bungie_object_animates": "1"
+        },
+        "b_r_3_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "1005272053",
+            "bungie_frame_ID2": "28142163",
+            "bungie_object_animates": "1"
+        },
+        "b_front_flap_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "975786436",
+            "bungie_frame_ID2": "-859504388",
+            "bungie_object_animates": "1"
+        },
+        "b_front_flap_null": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "982300025",
+            "bungie_frame_ID2": "769234082",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_sus_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "936634661",
+            "bungie_frame_ID2": "-1896854034",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "952765218",
+            "bungie_frame_ID2": "-1592775396",
+            "bungie_object_animates": "1"
+        },
+        "b_l_3_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "956850455",
+            "bungie_frame_ID2": "1819822003",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "863544774",
+            "bungie_frame_ID2": "-9666716",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "878132555",
+            "bungie_frame_ID2": "-816734465",
+            "bungie_object_animates": "1"
+        },
+        "b_l_rear_piston_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "907117332",
+            "bungie_frame_ID2": "1134044997",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_sus_03": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "830228235",
+            "bungie_frame_ID2": "-547053236",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "851103731",
+            "bungie_frame_ID2": "839128523",
+            "bungie_object_animates": "1"
+        },
+        "b_r_1_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "859502932",
+            "bungie_frame_ID2": "1403853042",
+            "bungie_object_animates": "1"
+        },
+        "b_rear_bay_door": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "817769790",
+            "bungie_frame_ID2": "302828515",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_sus_02": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "759958540",
+            "bungie_frame_ID2": "1883087884",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_turn_01": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "784914534",
+            "bungie_frame_ID2": "832337689",
+            "bungie_object_animates": "1"
+        },
+        "b_r_2_spin": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "789230163",
+            "bungie_frame_ID2": "-51110478",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_pitch": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "711169157",
+            "bungie_frame_ID2": "1073759639",
+            "bungie_object_animates": "1"
+        },
+        "b_aim_yaw": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "706856979",
+            "bungie_frame_ID2": "-322887163",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "interior:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6a7c7423-dbf7-384e-56e1-21586377e199",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "interior"
+        },
+        "glass:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "0ba92eb4-1edf-46af-e06b-ec01e07884d5",
+            "bungie_face_sides": "_connected_geometry_face_sides_two_sided",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "glass"
+        },
+        "exterior:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6bde2067-ea27-0be0-05ba-a66526bfa1ae",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "exterior"
+        },
+        "bridge:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "a428c659-dc7b-17db-e6f9-5c2999297165",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "bridge"
+        },
+        "suspension:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "5f945d31-b63d-cf5a-e1b8-77b8395d3d5c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "suspension"
+        },
+        "rr_wheel:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "6df9d36c-fd1c-fb30-d133-856c7cef2f3e",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "rr_wheel"
+        },
+        "rmid_wheel:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "66fb731d-4925-ccae-ec43-2c4d6bad77a6",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "rmid_wheel"
+        },
+        "rf_wheel:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c0238d6b-7c45-89b0-0de4-5b1a1823d721",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "rf_wheel"
+        },
+        "lr_wheel:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "e138c016-82ba-fdb6-d305-e85ef06f6588",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "lr_wheel"
+        },
+        "lmid_wheel:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "c8c8ccb5-7207-5a50-18d9-8106b2607d6c",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "lmid_wheel"
+        },
+        "lf_wheel:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "f1f9dd83-a5fc-3558-ddd5-2a906642a23d",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "lf_wheel"
+        },
+        "default:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_object_ID": "78d97b3b-af49-e116-d377-44bdd40e34af",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "default"
+        }
+    },
+    "material_properties": {
+        "lh_techplate01.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01",
+            "bungie_shader_type": "shader"
+        },
+        "unsc_tortoise_door.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\unsc_tortoise_door",
+            "bungie_shader_type": "shader"
+        },
+        "lhsigns.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lhsigns",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02exteriordk.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\lh_techplate02exteriordk",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate03.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate03",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_logos_1.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_logos_1",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_screen.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_screen",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_lights.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_lights",
+            "bungie_shader_type": "shader"
+        },
+        "storm_warthog_interior.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_warthog_interior",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01gun.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01gun",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01yel.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01yel",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02yel.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate02yel",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_basedark.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_basedark",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_basedk_scuff.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_basedk_scuff",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_tire.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_tire",
+            "bungie_shader_type": "shader"
+        },
+        "storm_warthog_exterior_maj.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_warthog_exterior_maj",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_lights_red.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_lights_red",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_tools_alpha.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_tools_alpha",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_glass2 opaque": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\opaque",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_glass2.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_glass2",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01tank.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01tank",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01exterior.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01exterior",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02exterior.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\lh_techplate02exterior",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_base.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_base",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_base_scuff.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_base_scuff",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_pannels.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_pannels",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_wheelwell.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_wheelwell",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_floor_ibridge_03.002": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_floor_ibridge_03",
+            "bungie_shader_type": "shader"
+        },
+        "unsc_floor03": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\unsc_floor03",
+            "bungie_shader_type": "shader"
+        },
+        "unsc_grate_tileable_001a": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\unsc_grate_tileable_001a",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_wallpanel_ibridge_01": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_wallpanel_ibridge_01",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_floor_ibridge_03": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_floor_ibridge_03",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_floor_ibridge_04": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_floor_ibridge_04",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_wallpanel_ibridge_02": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_wallpanel_ibridge_02",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_console_main": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_console_main",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_generic_a": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_generic_a",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_radar_sweep_b": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_radar_sweep_b",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_crest_anim_b": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_crest_anim_b",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_text_scroll_b": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_text_scroll_b",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_text_scroll_c": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_text_scroll_c",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_radar_sweep": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_radar_sweep",
+            "bungie_shader_type": "shader"
+        },
+        "ca_unsc_fud_lightfixture_orangeglow": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\ca_unsc_fud_lightfixture_orangeglow",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_text_scroll_a": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_text_scroll_a",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_monitor_03_a": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_monitor_03_a",
+            "bungie_shader_type": "shader"
+        },
+        "unsc_floor": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\unsc_floor",
+            "bungie_shader_type": "shader"
+        },
+        "unsc_monitor_03": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\unsc_monitor_03",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_monitor_01": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_monitor_01",
+            "bungie_shader_type": "shader"
+        },
+        "cin_unsc_screen_generic_ibridge": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\cin_unsc_screen_generic_ibridge",
+            "bungie_shader_type": "shader"
+        },
+        "invalid.001": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\invalid",
+            "bungie_shader_type": "shader"
+        },
+        "unsc_cables_01": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\unsc_cables_01",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01gun": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01gun",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02exteriordk": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\lh_techplate02exteriordk",
+            "bungie_shader_type": "shader"
+        },
+        "storm_warthog_exterior_maj": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_warthog_exterior_maj",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_basedark": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_basedark",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_basedk_scuff": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_basedk_scuff",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_tire_ao": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_tire_ao",
+            "bungie_shader_type": "shader"
+        },
+        "lhsigns": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lhsigns",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate01": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate01",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate02exterior": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\lh_techplate02exterior",
+            "bungie_shader_type": "shader"
+        },
+        "lh_techplate03": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\lh_techplate03",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_base": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_base",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_base_scuff": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_base_scuff",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_logos_1": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_logos_1",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_pannels": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth_main_gun\\shaders\\storm_mammoth_pannels",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_tire": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_tire",
+            "bungie_shader_type": "shader"
+        },
+        "storm_mammoth_wheelwell": {
+            "bungie_shader_path": "objects\\vehicles\\rejectedshotgun\\mammoth\\shaders\\storm_mammoth_wheelwell",
+            "bungie_shader_type": "shader"
+        }
+    }
+}

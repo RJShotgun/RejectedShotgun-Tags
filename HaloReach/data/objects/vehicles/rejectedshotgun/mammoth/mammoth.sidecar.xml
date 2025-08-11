@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2023-12-03 20:27:16</Created>
+    <By>Drake</By>
+    <SourceBlend>E:\Projects\HREK\models\mammoth\mammoth2.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="mammoth" Type="model">
+    <OutputTagCollection>
+      <OutputTag Type="model">objects\vehicles\rejectedshotgun\mammoth\mammoth</OutputTag>
+      <OutputTag Type="scenery">objects\vehicles\rejectedshotgun\mammoth\mammoth</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="exterior" Active="true"/>
+        <FaceCollectionEntry Index="2" Name="interior" Active="true"/>
+        <FaceCollectionEntry Index="3" Name="lf_wheel" Active="true"/>
+        <FaceCollectionEntry Index="4" Name="lmid_wheel" Active="true"/>
+        <FaceCollectionEntry Index="5" Name="lr_wheel" Active="true"/>
+        <FaceCollectionEntry Index="6" Name="rf_wheel" Active="true"/>
+        <FaceCollectionEntry Index="7" Name="rmid_wheel" Active="true"/>
+        <FaceCollectionEntry Index="8" Name="rr_wheel" Active="true"/>
+        <FaceCollectionEntry Index="9" Name="suspension" Active="true"/>
+        <FaceCollectionEntry Index="10" Name="bridge" Active="true"/>
+        <FaceCollectionEntry Index="11" Name="door" Active="true"/>
+        <FaceCollectionEntry Index="12" Name="glass" Active="true"/>
+        <FaceCollectionEntry Index="13" Name="door_rear" Active="true"/>
+        <FaceCollectionEntry Index="14" Name="door_front" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="mammoth" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\models\mammoth_render.fbx</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\export\models\mammoth_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">objects\vehicles\rejectedshotgun\mammoth\mammoth</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="physics_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\models\mammoth_physics.fbx</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\export\models\mammoth_physics.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="physics_model">objects\vehicles\rejectedshotgun\mammoth\mammoth</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="collision_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\models\mammoth_collision.fbx</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\export\models\mammoth_collision.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="collision_model">objects\vehicles\rejectedshotgun\mammoth\mammoth</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\models\mammoth_skeleton.fbx</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\export\models\mammoth_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="markers">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>objects\vehicles\rejectedshotgun\mammoth\models\mammoth_markers.fbx</InputFile>
+          <IntermediateFile>objects\vehicles\rejectedshotgun\mammoth\export\models\mammoth_markers.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>
