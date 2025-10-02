@@ -50,6 +50,8 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 **Vehicle:** Lich
 
+**Vehicle:** ODST Drop Pod
+
 **Vehicle:** Seraph
 
 **Vehicle:** Skiff
