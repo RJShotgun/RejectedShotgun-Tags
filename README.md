@@ -42,6 +42,10 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 ### Halo 3
 
+**Character:** Flood Juggernaut
+
+**Character:** Guardian Sentinel
+
 **Level:** Forerunner City
 
 **Vehicle:** Anti-Air Cannon (BFG)
