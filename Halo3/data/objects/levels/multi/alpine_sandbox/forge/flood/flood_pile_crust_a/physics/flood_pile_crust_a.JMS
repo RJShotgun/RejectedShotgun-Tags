@@ -1,0 +1,250 @@
+;### VERSION ###
+8213
+;	<8197-8213>
+
+;### NODES ###
+1
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+Bone
+-1
+0.7071067691	0.0000000000	0.0000000000	0.7071067691
+0.0000000000	0.0000000000	0.0000000000
+
+;### MATERIALS ###
+1
+;	<name>
+;	<material name>
+
+;MATERIAL 0
+fs flood_pilecrusty
+(8) Default Default
+
+;### MARKERS ###
+0
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### INSTANCE XREF PATHS ###
+0
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+0
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<node influences <index, weight>>
+;		<...>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;		<...>
+;	<vertex color <r,g,b>>
+
+;### TRIANGLES ###
+0
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+3
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;CONVEX 0
+uf2_pilecrusty_reactor_A_01 @110-95.002
+-1
+0
+0.0000000000	0.0000000000	0.0000000874	1.0000000000
+0.0000000000	0.0000000000	35.5537605286
+10
+-40.5659408569	-36.6136054993	-16.8518238068
+33.5225715637	-55.2643318176	-31.7004909515
+20.4852218628	-41.7005043030	-2.0540103912
+2.4944410324	-34.9058532715	12.9821043015
+-58.5956649780	47.0221595764	-23.6619701385
+3.3412153721	64.3627548218	-11.3586511612
+-23.0918502808	54.8247985840	-9.6949005127
+-42.9794158936	-69.6194381714	-35.5072708130
+-4.5111107826	-89.0524291992	-35.1428871155
+-8.9071693420	79.1151123047	-36.9765319824
+
+;CONVEX 1
+uf2_pilecrusty_reactor_A_01 @110-95.001
+-1
+0
+0.0000000000	0.0000000000	0.0000000874	1.0000000000
+0.0000000000	0.0000000000	35.5537605286
+25
+72.2412872314	-44.3341522217	-35.5129814148
+57.3678703308	26.1966037750	-5.2834415436
+2.1089310646	-19.4894752502	37.2619590759
+7.2016177177	-0.2319245338	35.9252624512
+44.3033332825	-2.8849570751	25.0032939911
+-68.2810745239	54.6438407898	-36.8106842041
+-87.1973571777	8.0279159546	-36.2851104736
+-85.0192489624	-9.7398633957	-36.5603179932
+14.0196943283	87.1634902954	-37.1287727356
+-50.3093032837	-43.5710792542	-36.3324089050
+51.7631492615	62.3057174683	-37.0093002319
+-40.4462852478	58.2197532654	-8.1335334778
+37.1465644836	30.8679332733	11.6260919571
+68.9297027588	0.6222119331	-0.7226459384
+-64.1775741577	-6.6843667030	-3.5549526215
+-1.4316630363	-36.7846679688	17.7166843414
+-32.0728836060	28.3005580902	15.8867835999
+32.3770751953	-15.1775636673	33.5665817261
+35.0109405518	-33.3779907227	13.8545036316
+-26.7132396698	-5.2809538841	32.4108352661
+24.1596202850	-20.9587306976	34.6970481873
+-52.9072151184	46.5060768127	-8.3955650330
+-57.2942657471	11.8492631912	2.4377193451
+0.3577966988	42.2227210999	19.9200115204
+88.1166000366	-14.0542192459	-35.9635925293
+
+;CONVEX 2
+uf2_pilecrusty_reactor_A_01 @110-95.003
+-1
+0
+0.0000000000	0.0000000000	0.0000000874	1.0000000000
+0.0000000000	0.0000000000	35.5537605286
+8
+82.0881195068	-39.4096641541	-35.3121566772
+19.6673088074	-40.4016952515	-1.1055325270
+34.4050292969	-38.6484832764	-0.9450792074
+-58.8751602173	46.8164710999	-23.6499443054
+55.1245727539	56.3205757141	-36.8216857910
+-5.5473999977	59.2438507080	-7.6242671013
+32.1341247559	-59.6055755615	-34.7646942139
+12.6893539429	89.3386917114	-38.3582458496
+
+;### RAGDOLLS ###
+0
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle>
+
+;### HINGES ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT TO POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>
+

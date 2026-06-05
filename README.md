@@ -48,6 +48,8 @@ I do ask that you credit me for the many, many hours I have put in to creating t
 
 **Level:** Forerunner City
 
+**Objects:** Ultimate Forge (Flood)
+
 **Vehicle:** Anti-Air Cannon (BFG)
 
 **Vehicle:** Ghost, Anti-Air

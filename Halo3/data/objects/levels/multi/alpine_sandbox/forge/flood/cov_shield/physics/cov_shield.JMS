@@ -1,0 +1,250 @@
+;### VERSION ###
+8213
+;	<8197-8213>
+
+;### NODES ###
+1
+;	<name>
+;	<parent node index>
+;	<default rotation <i,j,k,w>>
+;	<default translation <x,y,z>>
+
+;NODE 0
+Bone
+-1
+0.7071067691	0.0000000000	0.0000000000	0.7071067691
+0.0000000000	0.0000000000	0.0000000000
+
+;### MATERIALS ###
+1
+;	<name>
+;	<material name>
+
+;MATERIAL 0
+hard_metal_solid_cov
+(9) Default Default
+
+;### MARKERS ###
+0
+;	<name>
+;	<node index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### INSTANCE XREF PATHS ###
+0
+;	<name>
+
+;### INSTANCE MARKERS ###
+0
+;	<name>
+;	<unique identifier>
+;	<path index>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+
+;### VERTICES ###
+0
+;	<position>
+;	<normal>
+;	<node influences count>
+;		<node influences <index, weight>>
+;		<...>
+;	<texture coordinate count>
+;		<texture coordinates <u,v>>
+;		<...>
+;	<vertex color <r,g,b>>
+
+;### TRIANGLES ###
+0
+;	<material index>
+;	<vertex indices <v0,v1,v2>>
+
+;### SPHERES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<radius>
+
+;### BOXES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<width (x)>
+;	<length (y)>
+;	<height (z)>
+
+;### CAPSULES ###
+0
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<height>
+;	<radius>
+
+;### CONVEX SHAPES ###
+2
+;	<name>
+;	<parent>
+;	<material>
+;	<rotation <i,j,k,w>>
+;	<translation <x,y,z>>
+;	<vertex count>
+;	<...vertices>
+
+;CONVEX 0
+phys
+-1
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000000000	0.0000000000
+35
+-73.4389495850	-1.6321134567	107.4589385986
+-46.5914459229	26.4074745178	-131.2243347168
+-73.4389495850	26.4074745178	107.4589385986
+73.3979644775	-1.6321134567	107.4589385986
+46.5728225708	26.4074745178	-131.2243347168
+73.3979644775	26.4074745178	107.4589385986
+25.9183464050	26.4074745178	-136.2751922607
+-25.9369697571	26.4074745178	-136.2751922607
+-39.2486495972	26.4074745178	148.9728240967
+39.2300262451	26.4074745178	148.9728240967
+39.2300262451	-1.6321134567	148.9728240967
+-39.2486495972	-1.6321134567	148.9728240967
+-0.0093116760	26.4074745178	-136.2751922607
+-0.0093116760	26.4074745178	169.4041900635
+-0.0093116760	-1.6321134567	169.4041900635
+-70.4050292969	-16.5153617859	80.4863739014
+-70.4050292969	26.4074745178	80.4863739014
+70.3665695190	26.4074745178	80.4863739014
+70.3665695190	-16.5153617859	80.4863739014
+37.7257308960	-16.5153617859	116.7381820679
+-37.7443542480	-16.5153617859	116.7381820679
+-37.7443542480	26.4074745178	116.7381820679
+37.7257308960	26.4074745178	116.7381820679
+-0.0093116760	26.4074745178	134.8606872559
+-0.0093116760	-16.5153617859	134.8606872559
+-46.5914459229	7.3642406464	-131.2243347168
+-49.3783416748	-16.5153617859	-106.4478988647
+49.3573303223	-16.5153617859	-106.4484786987
+46.5728225708	7.3642406464	-131.2243347168
+-25.9369697571	7.3642387390	-136.2751922607
+-27.0734672546	-16.5153617859	-111.9218750000
+27.0548439026	-16.5153617859	-111.9218750000
+25.9183464050	7.3642387390	-136.2751922607
+-0.0093116760	-16.5153617859	-111.9400939941
+-0.0093116760	7.3642387390	-136.2751922607
+
+;CONVEX 1
+phys.001
+-1
+0
+0.0000000000	0.0000000000	0.0000000000	1.0000000000
+0.0000000000	0.0000000000	0.0000000000
+16
+-98.3275146484	-7.1175518036	-70.4934844971
+-107.2005081177	-7.1175518036	70.4934844971
+-98.3275146484	26.4075374603	-70.4934844971
+-107.2005081177	26.4075374603	70.4934844971
+98.3275146484	-7.1175518036	-70.4934844971
+107.2005081177	-7.1175518036	70.4934844971
+98.3275146484	26.4075374603	-70.4934844971
+107.2005081177	26.4075374603	70.4934844971
+-68.1703414917	-7.1175518036	97.9181289673
+-68.1703414917	26.4075374603	97.9181289673
+68.1703414917	26.4075374603	97.9181289673
+68.1703414917	-7.1175518036	97.9181289673
+-48.3558273315	26.4075374603	-115.9614868164
+-48.3558273315	-7.1175518036	-115.9614868164
+48.3558273315	26.4075374603	-115.9614868164
+48.3558273315	-7.1175518036	-115.9614868164
+
+;### RAGDOLLS ###
+0
+;	<name>
+;	<attached index>
+;	<referenced index>
+;	<attached transform>
+;	<reference transform>
+;	<min twist>
+;	<max twist>
+;	<min cone>
+;	<max cone>
+;	<min plane>
+;	<max plane>
+;	<friction limit>
+
+;### HINGES ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min angle>
+;	<max angle>
+
+;### HINGES ###
+0
+;	<name>
+;	<chassis index>
+;	<wheel index>
+;	<chassis transform>
+;	<wheel transform>
+;	<suspension transform>
+;	<suspension min limit>
+;	<suspension max limit>
+;	<friction limit>
+;	<velocity>
+;	<gain>
+
+;### POINT TO POINT ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<constraint type>
+;	<x min limit>
+;	<x max limit>
+;	<y min limit>
+;	<y max limit>
+;	<z min limit>
+;	<z max limit>
+;	<spring length>
+
+;### PRISMATIC ###
+0
+;	<name>
+;	<body A index>
+;	<body B index>
+;	<body A transform>
+;	<body B transform>
+;	<is limited>
+;	<friction limit>
+;	<min limit>
+;	<max limit>
+
+;### BOUNDING SPHERE ###
+0
+;	<translation <x,y,z>>
+;	<radius>
+
+;### SKYLIGHT ###
+0
+;	<direction <x,y,z>>
+;	<radiant intensity <x,y,z>>
+;	<solid angle>
+
